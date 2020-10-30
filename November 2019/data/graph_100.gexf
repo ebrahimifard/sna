@@ -1,0 +1,2032 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>22/05/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="rumor" label="rumor" />
+      <node id="apple community" label="apple community" />
+      <node id="blind item" label="blind item" />
+      <node id="snopes.com" label="snopes.com" />
+      <node id="pheme (project)" label="pheme (project)" />
+      <node id="hoax" label="hoax" />
+      <node id="circular source" label="circular source" />
+      <node id="fake news" label="fake news" />
+      <node id="gossip" label="gossip" />
+      <node id="altruism" label="altruism" />
+      <node id="bullying" label="bullying" />
+      <node id="clique" label="clique" />
+      <node id="communication in small groups" label="communication in small groups" />
+      <node id="curiosity" label="curiosity" />
+      <node id="false dilemma" label="false dilemma" />
+      <node id="gossip magazines" label="gossip magazines" />
+      <node id="impression management" label="impression management" />
+      <node id="interpersonal relationship" label="interpersonal relationship" />
+      <node id="libel" label="libel" />
+      <node id="misinformation" label="misinformation" />
+      <node id="personal network" label="personal network" />
+      <node id="popularity" label="popularity" />
+      <node id="respectability" label="respectability" />
+      <node id="scandal" label="scandal" />
+      <node id="sexual selection in human evolution" label="sexual selection in human evolution" />
+      <node id="social perception" label="social perception" />
+      <node id="social status" label="social status" />
+      <node id="word of mouth" label="word of mouth" />
+      <node id="yenta" label="yenta" />
+      <node id="backbiting" label="backbiting" />
+      <node id="list of common misconceptions" label="list of common misconceptions" />
+      <node id="character assassination" label="character assassination" />
+      <node id="defamation" label="defamation" />
+      <node id="counter misinformation team" label="counter misinformation team" />
+      <node id="disinformation" label="disinformation" />
+      <node id="factoid" label="factoid" />
+      <node id="fallacy" label="fallacy" />
+      <node id="list of fallacies" label="list of fallacies" />
+      <node id="junk science" label="junk science" />
+      <node id="euromyth" label="euromyth" />
+      <node id="quotation" label="quotation" />
+      <node id="propaganda" label="propaganda" />
+      <node id="pseudoscience" label="pseudoscience" />
+      <node id="social engineering (political science)" label="social engineering (political science)" />
+      <node id="social engineering (security)" label="social engineering (security)" />
+      <node id="persuasion" label="persuasion" />
+      <node id="1995 cia disinformation controversy" label="1995 cia disinformation controversy" />
+      <node id="active measures" label="active measures" />
+      <node id="active measures working group" label="active measures working group" />
+      <node id="denial and deception" label="denial and deception" />
+      <node id="fact checking" label="fact checking" />
+      <node id="false flag" label="false flag" />
+      <node id="fear, uncertainty and doubt" label="fear, uncertainty and doubt" />
+      <node id="forgery as covert operation" label="forgery as covert operation" />
+      <node id="information warfare" label="information warfare" />
+      <node id="internet manipulation" label="internet manipulation" />
+      <node id="kompromat" label="kompromat" />
+      <node id="media censorship and disinformation during the gezi park protests" label="media censorship and disinformation during the gezi park protests" />
+      <node id="manufacturing consent" label="manufacturing consent" />
+      <node id="operation shocker" label="operation shocker" />
+      <node id="operation toucan (kgb)" label="operation toucan (kgb)" />
+      <node id="politico media complex" label="politico media complex" />
+      <node id="post truth politics" label="post truth politics" />
+      <node id="propaganda in the soviet union" label="propaganda in the soviet union" />
+      <node id="russian military deception" label="russian military deception" />
+      <node id="sharp power" label="sharp power" />
+      <node id="alarmism" label="alarmism" />
+      <node id="alternative facts" label="alternative facts" />
+      <node id="climate change denial" label="climate change denial" />
+      <node id="demoralization (warfare)" label="demoralization (warfare)" />
+      <node id="fearmongering" label="fearmongering" />
+      <node id="internet meme" label="internet meme" />
+      <node id="journalism ethics and standards" label="journalism ethics and standards" />
+      <node id="lying press" label="lying press" />
+      <node id="media bias" label="media bias" />
+      <node id="media coverage of north korea" label="media coverage of north korea" />
+      <node id="pseudohistory" label="pseudohistory" />
+      <node id="urban legend" label="urban legend" />
+      <node id="list of urban legends" label="list of urban legends" />
+      <node id="creepypasta" label="creepypasta" />
+      <node id="japanese urban legend" label="japanese urban legend" />
+      <node id="superstition" label="superstition" />
+      <node id="woozle effect" label="woozle effect" />
+      <node id="conspiracy theory" label="conspiracy theory" />
+      <node id="counterfeit" label="counterfeit" />
+      <node id="e mail spoofing" label="e mail spoofing" />
+      <node id="fake memoirs" label="fake memoirs" />
+      <node id="fake news website" label="fake news website" />
+      <node id="false document" label="false document" />
+      <node id="falsity" label="falsity" />
+      <node id="fictitious entry" label="fictitious entry" />
+      <node id="forgery" label="forgery" />
+      <node id="impostor" label="impostor" />
+      <node id="list of hoaxes" label="list of hoaxes" />
+      <node id="literary forgery" label="literary forgery" />
+      <node id="media manipulation" label="media manipulation" />
+      <node id="musical hoax" label="musical hoax" />
+      <node id="simulated reality" label="simulated reality" />
+      <node id="sokal affair" label="sokal affair" />
+      <node id="tall tale" label="tall tale" />
+      <node id="the yes men" label="the yes men" />
+      <node id="virus hoax" label="virus hoax" />
+      <node id="website spoofing" label="website spoofing" />
+      <node id="copyeditor" label="copyeditor" />
+      <node id="investigative journalism" label="investigative journalism" />
+      <node id="journalism" label="journalism" />
+      <node id="masthead (publishing)" label="masthead (publishing)" />
+      <node id="misprint" label="misprint" />
+      <node id="watchdog journalism" label="watchdog journalism" />
+      <node id="chuck norris facts" label="chuck norris facts" />
+      <node id="groupthink" label="groupthink" />
+      <node id="just so story" label="just so story" />
+      <node id="meme" label="meme" />
+      <node id="talking point" label="talking point" />
+      <node id="trivia" label="trivia" />
+      <node id="truthiness" label="truthiness" />
+      <node id="list of cognitive biases" label="list of cognitive biases" />
+      <node id="list of memory biases" label="list of memory biases" />
+      <node id="list of paradoxes" label="list of paradoxes" />
+      <node id="special:search/" label="special:search/" />
+      <node id="anti pattern" label="anti pattern" />
+      <node id="argumentation theory" label="argumentation theory" />
+      <node id="argument map" label="argument map" />
+      <node id="association fallacy" label="association fallacy" />
+      <node id="cogency" label="cogency" />
+      <node id="cognitive bias" label="cognitive bias" />
+      <node id="cognitive distortion" label="cognitive distortion" />
+      <node id="critical thinking" label="critical thinking" />
+      <node id="demagogue" label="demagogue" />
+      <node id="evidence" label="evidence" />
+      <node id="fallacies of definition" label="fallacies of definition" />
+      <node id="false premise" label="false premise" />
+      <node id="false statement" label="false statement" />
+      <node id="inference objection" label="inference objection" />
+      <node id="inquiry" label="inquiry" />
+      <node id="invalid proof" label="invalid proof" />
+      <node id="jumping to conclusions" label="jumping to conclusions" />
+      <node id="lemma (logic)" label="lemma (logic)" />
+      <node id="mathematical fallacy" label="mathematical fallacy" />
+      <node id="paradox" label="paradox" />
+      <node id="prosecutor%27s fallacy" label="prosecutor%27s fallacy" />
+      <node id="sophism" label="sophism" />
+      <node id="soundness" label="soundness" />
+      <node id="lies, damned lies, and statistics" label="lies, damned lies, and statistics" />
+      <node id="truth" label="truth" />
+      <node id="validity" label="validity" />
+      <node id="victim blaming" label="victim blaming" />
+      <node id="attacking faulty reasoning" label="attacking faulty reasoning" />
+      <node id="straight and crooked thinking" label="straight and crooked thinking" />
+      <node id="paul e. meehl#applied clinical views and work" label="paul e. meehl#applied clinical views and work" />
+      <node id="ace (military)" label="ace (military)" />
+      <node id="black propaganda" label="black propaganda" />
+      <node id="cartographic propaganda" label="cartographic propaganda" />
+      <node id="crowd manipulation" label="crowd manipulation" />
+      <node id="edith cavell#first world war propaganda" label="edith cavell#first world war propaganda" />
+      <node id="mind games" label="mind games" />
+      <node id="moral panic" label="moral panic" />
+      <node id="music and political warfare" label="music and political warfare" />
+      <node id="nazi propaganda" label="nazi propaganda" />
+      <node id="overview of 21st century propaganda" label="overview of 21st century propaganda" />
+      <node id="perception management" label="perception management" />
+      <node id="politainment" label="politainment" />
+      <node id="political warfare" label="political warfare" />
+      <node id="category:propaganda by country" label="category:propaganda by country" />
+      <node id="propaganda techniques" label="propaganda techniques" />
+      <node id="psychological warfare" label="psychological warfare" />
+      <node id="propaganda in north korea" label="propaganda in north korea" />
+      <node id="smear campaign" label="smear campaign" />
+      <node id="circular sourcing" label="circular sourcing" />
+      <node id="innuendo" label="innuendo" />
+      <node id="roman %c3%a0 clef" label="roman %c3%a0 clef" />
+      <node id="truthorfiction.com" label="truthorfiction.com" />
+      <node id="factcheck.org" label="factcheck.org" />
+      <node id="the straight dope" label="the straight dope" />
+      <node id="the skeptic%27s dictionary" label="the skeptic%27s dictionary" />
+      <node id="mythbusters" label="mythbusters" />
+      <node id="media echo chamber" label="media echo chamber" />
+      <node id="circular reference" label="circular reference" />
+      <node id="ghost word" label="ghost word" />
+      <node id="reliability of wikipedia" label="reliability of wikipedia" />
+      <node id="wikipedia:list of citogenesis incidents" label="wikipedia:list of citogenesis incidents" />
+      <node id="altruria, california" label="altruria, california" />
+      <node id="charity (practice)" label="charity (practice)" />
+      <node id="charitable organization" label="charitable organization" />
+      <node id="comedy of the commons" label="comedy of the commons" />
+      <node id="consideration" label="consideration" />
+      <node id="earning to give" label="earning to give" />
+      <node id="effective altruism" label="effective altruism" />
+      <node id="egotism" label="egotism" />
+      <node id="empathy" label="empathy" />
+      <node id="empathy altruism" label="empathy altruism" />
+      <node id="family economics" label="family economics" />
+      <node id="gene centered view of evolution" label="gene centered view of evolution" />
+      <node id="giving pledge" label="giving pledge" />
+      <node id="inclusive fitness" label="inclusive fitness" />
+      <node id="group selection" label="group selection" />
+      <node id="humanity (virtue)" label="humanity (virtue)" />
+      <node id="kin selection" label="kin selection" />
+      <node id="misanthropy" label="misanthropy" />
+      <node id="mutual aid (organization)" label="mutual aid (organization)" />
+      <node id="philanthropy" label="philanthropy" />
+      <node id="prisoner%27s dilemma" label="prisoner%27s dilemma" />
+      <node id="prosocial behavior" label="prosocial behavior" />
+      <node id="random act of kindness" label="random act of kindness" />
+      <node id="reciprocal altruism" label="reciprocal altruism" />
+      <node id="selfishness" label="selfishness" />
+      <node id="social psychology" label="social psychology" />
+      <node id="solidarity (sociology)" label="solidarity (sociology)" />
+      <node id="tit for tat" label="tit for tat" />
+      <node id="book:bullying" label="book:bullying" />
+      <node id="adolescent cliques" label="adolescent cliques" />
+      <node id="cabal" label="cabal" />
+      <node id="dunbar%27s number" label="dunbar%27s number" />
+      <node id="bona fide group" label="bona fide group" />
+      <node id="decision downloading" label="decision downloading" />
+      <node id="group dynamics" label="group dynamics" />
+      <node id="broaden and build" label="broaden and build" />
+      <node id="interest (emotion)" label="interest (emotion)" />
+      <node id="play (activity)" label="play (activity)" />
+      <node id="behaviorism" label="behaviorism" />
+      <node id="bivalence" label="bivalence" />
+      <node id="correlative based fallacies" label="correlative based fallacies" />
+      <node id="critical theory" label="critical theory" />
+      <node id="degrees of truth" label="degrees of truth" />
+      <node id="euthyphro dilemma" label="euthyphro dilemma" />
+      <node id="fallacy of the single cause" label="fallacy of the single cause" />
+      <node id="half truth" label="half truth" />
+      <node id="hobson%27s choice" label="hobson%27s choice" />
+      <node id="law of excluded middle" label="law of excluded middle" />
+      <node id="learned helplessness" label="learned helplessness" />
+      <node id="lewis%27 trilemma" label="lewis%27 trilemma" />
+      <node id="loaded question" label="loaded question" />
+      <node id="love%e2%80%93hate relationship" label="love%e2%80%93hate relationship" />
+      <node id="many valued logic" label="many valued logic" />
+      <node id="morton%27s fork" label="morton%27s fork" />
+      <node id="nolan chart" label="nolan chart" />
+      <node id="nondualism" label="nondualism" />
+      <node id="none of the above" label="none of the above" />
+      <node id="obscurantism" label="obscurantism" />
+      <node id="one party system" label="one party system" />
+      <node id="pascal%27s wager" label="pascal%27s wager" />
+      <node id="perspectivism" label="perspectivism" />
+      <node id="principle of bivalence" label="principle of bivalence" />
+      <node id="rogerian argument" label="rogerian argument" />
+      <node id="show election" label="show election" />
+      <node id="slippery slope" label="slippery slope" />
+      <node id="sorites paradox" label="sorites paradox" />
+      <node id="splitting (psychology)" label="splitting (psychology)" />
+      <node id="strange loop#in cognitive science" label="strange loop#in cognitive science" />
+      <node id="straw man" label="straw man" />
+      <node id="thinking outside the box" label="thinking outside the box" />
+      <node id="two party system" label="two party system" />
+      <node id="unreasonable" label="unreasonable" />
+      <node id="you%27re either with us, or against us" label="you%27re either with us, or against us" />
+      <node id="gossip columnist" label="gossip columnist" />
+      <node id="tabloid (newspaper format)" label="tabloid (newspaper format)" />
+      <node id="tabloid journalism" label="tabloid journalism" />
+      <node id="calculating visions: kennedy, johnson, and civil rights" label="calculating visions: kennedy, johnson, and civil rights" />
+      <node id="character mask" label="character mask" />
+      <node id="charm offensive" label="charm offensive" />
+      <node id="dramaturgy (sociology)" label="dramaturgy (sociology)" />
+      <node id="first impression (psychology)" label="first impression (psychology)" />
+      <node id="ingratiation" label="ingratiation" />
+      <node id="online identity management" label="online identity management" />
+      <node id="on the internet, nobody knows you%27re a dog" label="on the internet, nobody knows you%27re a dog" />
+      <node id="personal branding" label="personal branding" />
+      <node id="register (sociolinguistics)" label="register (sociolinguistics)" />
+      <node id="reputation capital" label="reputation capital" />
+      <node id="reputation management" label="reputation management" />
+      <node id="self monitoring theory" label="self monitoring theory" />
+      <node id="self verification theory" label="self verification theory" />
+      <node id="signalling (economics)" label="signalling (economics)" />
+      <node id="spin (public relations)" label="spin (public relations)" />
+      <node id="superficial charm" label="superficial charm" />
+      <node id="stigma management" label="stigma management" />
+      <node id="discontinuity view" label="discontinuity view" />
+      <node id="interactionism" label="interactionism" />
+      <node id="interpersonal attraction" label="interpersonal attraction" />
+      <node id="interpersonal tie" label="interpersonal tie" />
+      <node id="outline of relationships" label="outline of relationships" />
+      <node id="relationship status" label="relationship status" />
+      <node id="relationship forming" label="relationship forming" />
+      <node id="socionics" label="socionics" />
+      <node id="absence of malice" label="absence of malice" />
+      <node id="annie oakley#libel cases" label="annie oakley#libel cases" />
+      <node id="anti defamation league" label="anti defamation league" />
+      <node id="blood libel" label="blood libel" />
+      <node id="chilling effect (law)" label="chilling effect (law)" />
+      <node id="crimen injuria" label="crimen injuria" />
+      <node id="criminal libel" label="criminal libel" />
+      <node id="cyber defamation law" label="cyber defamation law" />
+      <node id="defamation act" label="defamation act" />
+      <node id="defamation of religion and the united nations" label="defamation of religion and the united nations" />
+      <node id="dignitary torts" label="dignitary torts" />
+      <node id="false accusations" label="false accusations" />
+      <node id="intentional torts" label="intentional torts" />
+      <node id="libel act" label="libel act" />
+      <node id="libel tourism" label="libel tourism" />
+      <node id="malicious prosecution" label="malicious prosecution" />
+      <node id="political libel" label="political libel" />
+      <node id="small penis rule" label="small penis rule" />
+      <node id="martin v. hearst corporation" label="martin v. hearst corporation" />
+      <node id="rector v. mlb" label="rector v. mlb" />
+      <node id="peer group" label="peer group" />
+      <node id="school bullying" label="school bullying" />
+      <node id="self esteem" label="self esteem" />
+      <node id="admiration" label="admiration" />
+      <node id="dignity" label="dignity" />
+      <node id="etiquette" label="etiquette" />
+      <node id="face (sociological concept)" label="face (sociological concept)" />
+      <node id="honor" label="honor" />
+      <node id="respectability politics" label="respectability politics" />
+      <node id="tai tou" label="tai tou" />
+      <node id="unconditional positive regard" label="unconditional positive regard" />
+      <node id="list of scandals with %22 gate%22 suffix" label="list of scandals with %22 gate%22 suffix" />
+      <node id="physical attractiveness" label="physical attractiveness" />
+      <node id="marriage squeeze" label="marriage squeeze" />
+      <node id="hypergamy" label="hypergamy" />
+      <node id="human mating strategies" label="human mating strategies" />
+      <node id="conformity" label="conformity" />
+      <node id="framing (social sciences)" label="framing (social sciences)" />
+      <node id="interpersonal perception" label="interpersonal perception" />
+      <node id="joint attention" label="joint attention" />
+      <node id="nonverbal communication" label="nonverbal communication" />
+      <node id="prejudice" label="prejudice" />
+      <node id="achieved status" label="achieved status" />
+      <node id="ascribed status" label="ascribed status" />
+      <node id="dominance hierarchy" label="dominance hierarchy" />
+      <node id="economic mobility" label="economic mobility" />
+      <node id="power (social and political)" label="power (social and political)" />
+      <node id="ranked society" label="ranked society" />
+      <node id="social class" label="social class" />
+      <node id="social inequality" label="social inequality" />
+      <node id="social stratification" label="social stratification" />
+      <node id="socioeconomic status" label="socioeconomic status" />
+      <node id="sociometric status" label="sociometric status" />
+      <node id="status attainment" label="status attainment" />
+      <node id="status set" label="status set" />
+      <node id="status symbol" label="status symbol" />
+      <node id="electronic word of mouth" label="electronic word of mouth" />
+      <node id="communication" label="communication" />
+      <node id="klout" label="klout" />
+      <node id="oral communication" label="oral communication" />
+      <node id="oral history" label="oral history" />
+      <node id="oral tradition" label="oral tradition" />
+      <node id="peerindex" label="peerindex" />
+      <node id="storytelling" label="storytelling" />
+      <node id="train of thought" label="train of thought" />
+      <node id="two step flow of communication" label="two step flow of communication" />
+      <node id="word of mouth marketing" label="word of mouth marketing" />
+      <node id="yentl" label="yentl" />
+      <node id="yente serdatzky" label="yente serdatzky" />
+      <node id="conventional wisdom" label="conventional wisdom" />
+      <node id="counterintuitive" label="counterintuitive" />
+      <node id="list of topics characterized as pseudoscience" label="list of topics characterized as pseudoscience" />
+      <node id="old wives%27 tale" label="old wives%27 tale" />
+      <node id="outline of public relations" label="outline of public relations" />
+      <node id="pseudodoxia epidemica" label="pseudodoxia epidemica" />
+      <node id="qi" label="qi" />
+      <node id="stereotype" label="stereotype" />
+      <node id="urban legends about drugs" label="urban legends about drugs" />
+      <node id="fair game (scientology)" label="fair game (scientology)" />
+      <node id="pittura infamante" label="pittura infamante" />
+      <node id="mccarthyism" label="mccarthyism" />
+      <node id="hollywood blacklist" label="hollywood blacklist" />
+      <node id="damnatio memoriae" label="damnatio memoriae" />
+      <node id="social undermining" label="social undermining" />
+      <node id="personal attack" label="personal attack" />
+      <node id="tone policing" label="tone policing" />
+      <node id="index of public relations related articles" label="index of public relations related articles" />
+      <node id="sophistical refutations" label="sophistical refutations" />
+      <node id="agnotology" label="agnotology" />
+      <node id="antiscience" label="antiscience" />
+      <node id="cargo cult science" label="cargo cult science" />
+      <node id="creationism" label="creationism" />
+      <node id="daubert standard" label="daubert standard" />
+      <node id="denialism" label="denialism" />
+      <node id="federal rules of evidence" label="federal rules of evidence" />
+      <node id="fringe theory" label="fringe theory" />
+      <node id="fringe science" label="fringe science" />
+      <node id="frye standard" label="frye standard" />
+      <node id="intelligent design" label="intelligent design" />
+      <node id="normative science" label="normative science" />
+      <node id="pathological science" label="pathological science" />
+      <node id="science by press conference" label="science by press conference" />
+      <node id="scientific literacy" label="scientific literacy" />
+      <node id="scientific method" label="scientific method" />
+      <node id="brexit" label="brexit" />
+      <node id="card stacking" label="card stacking" />
+      <node id="counterpropaganda" label="counterpropaganda" />
+      <node id="euroscepticism" label="euroscepticism" />
+      <node id="news propaganda" label="news propaganda" />
+      <node id="political alienation" label="political alienation" />
+      <node id="political apathy" label="political apathy" />
+      <node id="spin (propaganda)" label="spin (propaganda)" />
+      <node id="adage" label="adage" />
+      <node id="aphorism" label="aphorism" />
+      <node id="block quotation" label="block quotation" />
+      <node id="darmok" label="darmok" />
+      <node id="epigram" label="epigram" />
+      <node id="fallacy of quoting out of context" label="fallacy of quoting out of context" />
+      <node id="saying" label="saying" />
+      <node id="musical quotation" label="musical quotation" />
+      <node id="nested quotation" label="nested quotation" />
+      <node id="proverb" label="proverb" />
+      <node id="scare quotes" label="scare quotes" />
+      <node id="sic" label="sic" />
+      <node id="use%e2%80%93mention distinction" label="use%e2%80%93mention distinction" />
+      <node id="quotation mark" label="quotation mark" />
+      <node id="credulity" label="credulity" />
+      <node id="not even wrong" label="not even wrong" />
+      <node id="pseudolaw" label="pseudolaw" />
+      <node id="pseudomathematics" label="pseudomathematics" />
+      <node id="culture change" label="culture change" />
+      <node id="edward bernays" label="edward bernays" />
+      <node id="engineers of the human soul" label="engineers of the human soul" />
+      <node id="jacque fresco" label="jacque fresco" />
+      <node id="nudge theory" label="nudge theory" />
+      <node id="paternalism" label="paternalism" />
+      <node id="political engineering" label="political engineering" />
+      <node id="public relations" label="public relations" />
+      <node id="social constructionism" label="social constructionism" />
+      <node id="social control" label="social control" />
+      <node id="social technology" label="social technology" />
+      <node id="total institution" label="total institution" />
+      <node id="certified social engineering prevention specialist" label="certified social engineering prevention specialist" />
+      <node id="code shikara (computer worm)" label="code shikara (computer worm)" />
+      <node id="confidence trick" label="confidence trick" />
+      <node id="countermeasure (computer)" label="countermeasure (computer)" />
+      <node id="cyber humint" label="cyber humint" />
+      <node id="cyberheist" label="cyberheist" />
+      <node id="internet security awareness training" label="internet security awareness training" />
+      <node id="it risk" label="it risk" />
+      <node id="media prank" label="media prank" />
+      <node id="penetration test" label="penetration test" />
+      <node id="phishing" label="phishing" />
+      <node id="physical information security" label="physical information security" />
+      <node id="piggybacking (security)" label="piggybacking (security)" />
+      <node id="sms phishing" label="sms phishing" />
+      <node id="threat (computer)" label="threat (computer)" />
+      <node id="voice phishing" label="voice phishing" />
+      <node id="vulnerability (computing)" label="vulnerability (computing)" />
+      <node id="attitude behavior consistency" label="attitude behavior consistency" />
+      <node id="captatio benevolentiae" label="captatio benevolentiae" />
+      <node id="compliance gaining" label="compliance gaining" />
+      <node id="judge%e2%80%93advisor system" label="judge%e2%80%93advisor system" />
+      <node id="regulatory focus theory" label="regulatory focus theory" />
+      <node id="sleeper effect" label="sleeper effect" />
+      <node id="social marketing" label="social marketing" />
+      <node id="robert hanssen" label="robert hanssen" />
+      <node id="harold james nicholson" label="harold james nicholson" />
+      <node id="john anthony walker" label="john anthony walker" />
+      <node id="vitaly yurchenko" label="vitaly yurchenko" />
+      <node id="agent of influence" label="agent of influence" />
+      <node id="agents provocateurs" label="agents provocateurs" />
+      <node id="chronology of soviet secret police agencies" label="chronology of soviet secret police agencies" />
+      <node id="covert operation" label="covert operation" />
+      <node id="first chief directorate" label="first chief directorate" />
+      <node id="front organization" label="front organization" />
+      <node id="hybrid warfare" label="hybrid warfare" />
+      <node id="mitrokhin archive" label="mitrokhin archive" />
+      <node id="poison laboratory of the soviet secret services" label="poison laboratory of the soviet secret services" />
+      <node id="russian interference in the 2016 united states elections" label="russian interference in the 2016 united states elections" />
+      <node id="soviet influence on the peace movement" label="soviet influence on the peace movement" />
+      <node id="whataboutism" label="whataboutism" />
+      <node id="world peace council" label="world peace council" />
+      <node id="psychological operations (united states)" label="psychological operations (united states)" />
+      <node id="unconventional warfare" label="unconventional warfare" />
+      <node id="war of ideas" label="war of ideas" />
+      <node id="operation infektion" label="operation infektion" />
+      <node id="united states information agency" label="united states information agency" />
+      <node id="defense in depth" label="defense in depth" />
+      <node id="plausible deniability" label="plausible deniability" />
+      <node id="agent provocateur" label="agent provocateur" />
+      <node id="casus belli" label="casus belli" />
+      <node id="frameup" label="frameup" />
+      <node id="joe job" label="joe job" />
+      <node id="mimicry" label="mimicry" />
+      <node id="state terrorism" label="state terrorism" />
+      <node id="celle hole" label="celle hole" />
+      <node id="cia" label="cia" />
+      <node id="operation ajax" label="operation ajax" />
+      <node id="united states" label="united states" />
+      <node id="gleiwitz incident" label="gleiwitz incident" />
+      <node id="operation himmler" label="operation himmler" />
+      <node id="lavon affair" label="lavon affair" />
+      <node id="marxist leninist party of the netherlands" label="marxist leninist party of the netherlands" />
+      <node id="masada action and defense movement" label="masada action and defense movement" />
+      <node id="operation greif" label="operation greif" />
+      <node id="battle of the bulge" label="battle of the bulge" />
+      <node id="operation northwoods" label="operation northwoods" />
+      <node id="cuban revolution" label="cuban revolution" />
+      <node id="baralong incidents" label="baralong incidents" />
+      <node id="culture of fear" label="culture of fear" />
+      <node id="dihydrogen monoxide hoax" label="dihydrogen monoxide hoax" />
+      <node id="discrediting tactic" label="discrediting tactic" />
+      <node id="dunning%e2%80%93kruger effect" label="dunning%e2%80%93kruger effect" />
+      <node id="embrace, extend, and extinguish" label="embrace, extend, and extinguish" />
+      <node id="iago" label="iago" />
+      <node id="religious paranoia" label="religious paranoia" />
+      <node id="scareware" label="scareware" />
+      <node id="swiftboating" label="swiftboating" />
+      <node id="tin foil hat" label="tin foil hat" />
+      <node id="vaporware" label="vaporware" />
+      <node id="counterfeit money" label="counterfeit money" />
+      <node id="subversion" label="subversion" />
+      <node id="outline of forgery" label="outline of forgery" />
+      <node id="cyberwarfare" label="cyberwarfare" />
+      <node id="communications security" label="communications security" />
+      <node id="command and control warfare" label="command and control warfare" />
+      <node id="electronic warfare" label="electronic warfare" />
+      <node id="historical revisionism (negationism)" label="historical revisionism (negationism)" />
+      <node id="fifth dimension operations" label="fifth dimension operations" />
+      <node id="gatekeeper (politics)" label="gatekeeper (politics)" />
+      <node id="industrial espionage" label="industrial espionage" />
+      <node id="information operations" label="information operations" />
+      <node id="irregular warfare" label="irregular warfare" />
+      <node id="iwar" label="iwar" />
+      <node id="network centric warfare" label="network centric warfare" />
+      <node id="public affairs (military)" label="public affairs (military)" />
+      <node id="storm botnet" label="storm botnet" />
+      <node id="transparency (behavior)" label="transparency (behavior)" />
+      <node id="chinese information operations and warfare" label="chinese information operations and warfare" />
+      <node id="cyberwarfare in russia" label="cyberwarfare in russia" />
+      <node id="taliban propaganda" label="taliban propaganda" />
+      <node id="white paper on el salvador" label="white paper on el salvador" />
+      <node id="cointelpro" label="cointelpro" />
+      <node id="enemy image" label="enemy image" />
+      <node id="information operations roadmap" label="information operations roadmap" />
+      <node id="pentagon military analyst program" label="pentagon military analyst program" />
+      <node id="special activities division" label="special activities division" />
+      <node id="titan rain" label="titan rain" />
+      <node id="information operations (united states)" label="information operations (united states)" />
+      <node id="astroturfing" label="astroturfing" />
+      <node id="click farm" label="click farm" />
+      <node id="click fraud" label="click fraud" />
+      <node id="clickbait" label="clickbait" />
+      <node id="clickbot.a" label="clickbot.a" />
+      <node id="conflict of interest editing on wikipedia" label="conflict of interest editing on wikipedia" />
+      <node id="cost per impression" label="cost per impression" />
+      <node id="criticism of democracy" label="criticism of democracy" />
+      <node id="criticism of facebook#2014 emotion manipulation study" label="criticism of facebook#2014 emotion manipulation study" />
+      <node id="education reform" label="education reform" />
+      <node id="fake likes" label="fake likes" />
+      <node id="filter bubble" label="filter bubble" />
+      <node id="foreign electoral intervention" label="foreign electoral intervention" />
+      <node id="identity theft" label="identity theft" />
+      <node id="impersonator" label="impersonator" />
+      <node id="category:media manipulation" label="category:media manipulation" />
+      <node id="meme hack" label="meme hack" />
+      <node id="ntrepid#military contract" label="ntrepid#military contract" />
+      <node id="page view" label="page view" />
+      <node id="pagerank" label="pagerank" />
+      <node id="pay per click" label="pay per click" />
+      <node id="photo manipulation" label="photo manipulation" />
+      <node id="post truth" label="post truth" />
+      <node id="psychological manipulation" label="psychological manipulation" />
+      <node id="search engine optimization" label="search engine optimization" />
+      <node id="search neutrality" label="search neutrality" />
+      <node id="sentiment analysis" label="sentiment analysis" />
+      <node id="social networking service#unauthorized access" label="social networking service#unauthorized access" />
+      <node id="sockpuppet (internet)" label="sockpuppet (internet)" />
+      <node id="surveillance capitalism" label="surveillance capitalism" />
+      <node id="the great meme war" label="the great meme war" />
+      <node id="trend analysis" label="trend analysis" />
+      <node id="website monitoring" label="website monitoring" />
+      <node id="donald trump%e2%80%93russia dossier" label="donald trump%e2%80%93russia dossier" />
+      <node id="false evidence" label="false evidence" />
+      <node id="negative campaigning" label="negative campaigning" />
+      <node id="opposition research" label="opposition research" />
+      <node id="backward run" label="backward run" />
+      <node id="turkish language" label="turkish language" />
+      <node id="media imperialism" label="media imperialism" />
+      <node id="nicaraguan general election, 1984" label="nicaraguan general election, 1984" />
+      <node id="the engineering of consent" label="the engineering of consent" />
+      <node id="merchants of doubt" label="merchants of doubt" />
+      <node id="preference falsification" label="preference falsification" />
+      <node id="celebrity%e2%80%93industrial complex" label="celebrity%e2%80%93industrial complex" />
+      <node id="freedom of the press" label="freedom of the press" />
+      <node id="great firewall of china" label="great firewall of china" />
+      <node id="hillsborough disaster#the sun" label="hillsborough disaster#the sun" />
+      <node id="hillsborough wikipedia posts" label="hillsborough wikipedia posts" />
+      <node id="history of radio" label="history of radio" />
+      <node id="kdka (am)" label="kdka (am)" />
+      <node id="korean central news agency" label="korean central news agency" />
+      <node id="leveson inquiry" label="leveson inquiry" />
+      <node id="media bias in the united states" label="media bias in the united states" />
+      <node id="mediacracy" label="mediacracy" />
+      <node id="military%e2%80%93industrial%e2%80%93media complex" label="military%e2%80%93industrial%e2%80%93media complex" />
+      <node id="military%e2%80%93industrial complex" label="military%e2%80%93industrial complex" />
+      <node id="press freedom index" label="press freedom index" />
+      <node id="prism (surveillance program)" label="prism (surveillance program)" />
+      <node id="prison%e2%80%93industrial complex" label="prison%e2%80%93industrial complex" />
+      <node id="postmodernism" label="postmodernism" />
+      <node id="the new totalitarians" label="the new totalitarians" />
+      <node id="banderivtsi" label="banderivtsi" />
+      <node id="censorship in the soviet union" label="censorship in the soviet union" />
+      <node id="cold war" label="cold war" />
+      <node id="communist propaganda" label="communist propaganda" />
+      <node id="kukryniksy" label="kukryniksy" />
+      <node id="propaganda in the people%27s republic of china" label="propaganda in the people%27s republic of china" />
+      <node id="propaganda in the polish people%27s republic" label="propaganda in the polish people%27s republic" />
+      <node id="propaganda in the united states" label="propaganda in the united states" />
+      <node id="maneuver warfare" label="maneuver warfare" />
+      <node id="operational art" label="operational art" />
+      <node id="proxy war" label="proxy war" />
+      <node id="salami tactics" label="salami tactics" />
+      <node id="soviet deep battle" label="soviet deep battle" />
+      <node id="adult to adult narcissistic abuse" label="adult to adult narcissistic abuse" />
+      <node id="abuse of power" label="abuse of power" />
+      <node id="blackmail" label="blackmail" />
+      <node id="child grooming" label="child grooming" />
+      <node id="cycle of violence" label="cycle of violence" />
+      <node id="elder abuse" label="elder abuse" />
+      <node id="enabling" label="enabling" />
+      <node id="expressions of dominance" label="expressions of dominance" />
+      <node id="extortion" label="extortion" />
+      <node id="fit in or fuck off" label="fit in or fuck off" />
+      <node id="mind control" label="mind control" />
+      <node id="my way or the highway" label="my way or the highway" />
+      <node id="personal boundaries" label="personal boundaries" />
+      <node id="power and control: domestic violence in america" label="power and control: domestic violence in america" />
+      <node id="protection racket" label="protection racket" />
+      <node id="victim playing" label="victim playing" />
+      <node id="2009 flu pandemic" label="2009 flu pandemic" />
+      <node id="2012 phenomenon" label="2012 phenomenon" />
+      <node id="cassandra (metaphor)" label="cassandra (metaphor)" />
+      <node id="false alarm" label="false alarm" />
+      <node id="fear mongering" label="fear mongering" />
+      <node id="hypochondriasis" label="hypochondriasis" />
+      <node id="mass hysteria" label="mass hysteria" />
+      <node id="scaremongering" label="scaremongering" />
+      <node id="sociology of disaster" label="sociology of disaster" />
+      <node id="the boy who cried wolf" label="the boy who cried wolf" />
+      <node id="the sky is falling (fable)" label="the sky is falling (fable)" />
+      <node id="2 %2b 2 %3d 5" label="2 %2b 2 %3d 5" />
+      <node id="credibility gap" label="credibility gap" />
+      <node id="distinction without a difference" label="distinction without a difference" />
+      <node id="doublethink" label="doublethink" />
+      <node id="factual relativism" label="factual relativism" />
+      <node id="false equivalence" label="false equivalence" />
+      <node id="gaslighting" label="gaslighting" />
+      <node id="political gaffe" label="political gaffe" />
+      <node id="terminological inexactitude" label="terminological inexactitude" />
+      <node id="book:global warming denial" label="book:global warming denial" />
+      <node id="anti environmentalism" label="anti environmentalism" />
+      <node id="effects of global warming" label="effects of global warming" />
+      <node id="information council on the environment" label="information council on the environment" />
+      <node id="international conference on climate change" label="international conference on climate change" />
+      <node id="motivated reasoning" label="motivated reasoning" />
+      <node id="renewable energy commercialization#non technical barriers to acceptance" label="renewable energy commercialization#non technical barriers to acceptance" />
+      <node id="semmelweis reflex" label="semmelweis reflex" />
+      <node id="list of scientists opposing the mainstream scientific assessment of global warming" label="list of scientists opposing the mainstream scientific assessment of global warming" />
+      <node id="political positions of donald trump#climate change and pollution" label="political positions of donald trump#climate change and pollution" />
+      <node id="climate change denial disorder" label="climate change denial disorder" />
+      <node id="satire" label="satire" />
+      <node id="parody" label="parody" />
+      <node id="fictional disease" label="fictional disease" />
+      <node id="before the flood (film)" label="before the flood (film)" />
+      <node id="destabilisation" label="destabilisation" />
+      <node id="divide and rule" label="divide and rule" />
+      <node id="military deception" label="military deception" />
+      <node id="ruse of war" label="ruse of war" />
+      <node id="shock and awe" label="shock and awe" />
+      <node id="terrorism" label="terrorism" />
+      <node id="appeal to fear" label="appeal to fear" />
+      <node id="emotional blackmail" label="emotional blackmail" />
+      <node id="fnord" label="fnord" />
+      <node id="intimidation" label="intimidation" />
+      <node id="red scare" label="red scare" />
+      <node id="summer of the shark" label="summer of the shark" />
+      <node id="clich%c3%a9" label="clich%c3%a9" />
+      <node id="list of internet phenomena" label="list of internet phenomena" />
+      <node id="remix culture" label="remix culture" />
+      <node id="citizen journalism" label="citizen journalism" />
+      <node id="ethical journalism initiative" label="ethical journalism initiative" />
+      <node id="ethical journalism network" label="ethical journalism network" />
+      <node id="history of american newspapers" label="history of american newspapers" />
+      <node id="history of journalism" label="history of journalism" />
+      <node id="international federation of journalists" label="international federation of journalists" />
+      <node id="new york press club" label="new york press club" />
+      <node id="objectivity (journalism)" label="objectivity (journalism)" />
+      <node id="order of the occult hand" label="order of the occult hand" />
+      <node id="organisation of news ombudsmen" label="organisation of news ombudsmen" />
+      <node id="parachute journalism" label="parachute journalism" />
+      <node id="reporters without borders" label="reporters without borders" />
+      <node id="code of ethics in media" label="code of ethics in media" />
+      <node id="code of ethics in media#society of professional journalists: code of ethics" label="code of ethics in media#society of professional journalists: code of ethics" />
+      <node id="international council for press and broadcasting" label="international council for press and broadcasting" />
+      <node id="international council for press and broadcasting#media ethics code" label="international council for press and broadcasting#media ethics code" />
+      <node id="journaille" label="journaille" />
+      <node id="freedom of speech by country" label="freedom of speech by country" />
+      <node id="hierarchy of death" label="hierarchy of death" />
+      <node id="hostile media effect" label="hostile media effect" />
+      <node id="mainstream media" label="mainstream media" />
+      <node id="manufacturing consent#five filters of editorial bias" label="manufacturing consent#five filters of editorial bias" />
+      <node id="mass media impact on spatial perception" label="mass media impact on spatial perception" />
+      <node id="media in alberta#political bias" label="media in alberta#political bias" />
+      <node id="media representation of hugo ch%c3%a1vez" label="media representation of hugo ch%c3%a1vez" />
+      <node id="media transparency" label="media transparency" />
+      <node id="one dimensional man" label="one dimensional man" />
+      <node id="political correctness" label="political correctness" />
+      <node id="racial bias in criminal news" label="racial bias in criminal news" />
+      <node id="racism in horror films" label="racism in horror films" />
+      <node id="structural pluralism" label="structural pluralism" />
+      <node id="view from nowhere" label="view from nowhere" />
+      <node id="atrocity propaganda" label="atrocity propaganda" />
+      <node id="chojoongdong" label="chojoongdong" />
+      <node id="media of north korea" label="media of north korea" />
+      <node id="north korean studies" label="north korean studies" />
+      <node id="photojournalism in north korea" label="photojournalism in north korea" />
+      <node id="black egyptian hypothesis" label="black egyptian hypothesis" />
+      <node id="historiography and nationalism" label="historiography and nationalism" />
+      <node id="category:pseudohistorians" label="category:pseudohistorians" />
+      <node id="pseudoscientific metrology" label="pseudoscientific metrology" />
+      <node id="japanese mythology in popular culture" label="japanese mythology in popular culture" />
+      <node id="kami" label="kami" />
+      <node id="argument from authority" label="argument from authority" />
+      <node id="argumentum ad populum" label="argumentum ad populum" />
+      <node id="circular reasoning" label="circular reasoning" />
+      <node id="citogenesis" label="citogenesis" />
+      <node id="idola theatri" label="idola theatri" />
+      <node id="publication bias" label="publication bias" />
+      <node id="three men make a tiger" label="three men make a tiger" />
+      <node id="viral phenomenon" label="viral phenomenon" />
+      <node id="weasel word" label="weasel word" />
+      <node id="white hat bias" label="white hat bias" />
+      <node id="conspiracy fiction" label="conspiracy fiction" />
+      <node id="furtive fallacy" label="furtive fallacy" />
+      <node id="on the origin of the %22influencing machine%22 in schizophrenia" label="on the origin of the %22influencing machine%22 in schizophrenia" />
+      <node id="list of conspiracy theories" label="list of conspiracy theories" />
+      <node id="authentication" label="authentication" />
+      <node id="coin counterfeiting" label="coin counterfeiting" />
+      <node id="copyright infringement" label="copyright infringement" />
+      <node id="counterfeit banknote detection pen" label="counterfeit banknote detection pen" />
+      <node id="counterfeit medications" label="counterfeit medications" />
+      <node id="counterfeit watch" label="counterfeit watch" />
+      <node id="entertainment law" label="entertainment law" />
+      <node id="gresham%27s law" label="gresham%27s law" />
+      <node id="illegal stamps" label="illegal stamps" />
+      <node id="intellectual property" label="intellectual property" />
+      <node id="legal fake" label="legal fake" />
+      <node id="philatelic fakes and forgeries" label="philatelic fakes and forgeries" />
+      <node id="prescription drug marketing act" label="prescription drug marketing act" />
+      <node id="slug (coin)" label="slug (coin)" />
+      <node id="watered stock" label="watered stock" />
+      <node id="email authentication" label="email authentication" />
+      <node id="sender policy framework" label="sender policy framework" />
+      <node id="computer virus" label="computer virus" />
+      <node id="computer worm" label="computer worm" />
+      <node id="chain email" label="chain email" />
+      <node id="misery lit" label="misery lit" />
+      <node id="list of fictional diaries" label="list of fictional diaries" />
+      <node id="confirmation bias" label="confirmation bias" />
+      <node id="echo chamber (media)" label="echo chamber (media)" />
+      <node id="fallacy of composition" label="fallacy of composition" />
+      <node id="information silo" label="information silo" />
+      <node id="list of fake news websites" label="list of fake news websites" />
+      <node id="selective exposure theory" label="selective exposure theory" />
+      <node id="spiral of silence" label="spiral of silence" />
+      <node id="tribe (internet)" label="tribe (internet)" />
+      <node id="false documentation" label="false documentation" />
+      <node id="alternate reality game" label="alternate reality game" />
+      <node id="a racial program for the twentieth century" label="a racial program for the twentieth century" />
+      <node id="april fools%27 day rfc" label="april fools%27 day rfc" />
+      <node id="donation of constantine" label="donation of constantine" />
+      <node id="epistolary novel" label="epistolary novel" />
+      <node id="fictional book" label="fictional book" />
+      <node id="frame tale" label="frame tale" />
+      <node id="literary technique" label="literary technique" />
+      <node id="mockumentary" label="mockumentary" />
+      <node id="questioned document examination" label="questioned document examination" />
+      <node id="voynich manuscript" label="voynich manuscript" />
+      <node id="deception" label="deception" />
+      <node id="fraud" label="fraud" />
+      <node id="lie" label="lie" />
+      <node id="argleton" label="argleton" />
+      <node id="canary trap" label="canary trap" />
+      <node id="culture jamming" label="culture jamming" />
+      <node id="digital watermarking" label="digital watermarking" />
+      <node id="easter egg (media)" label="easter egg (media)" />
+      <node id="honeypot (computing)" label="honeypot (computing)" />
+      <node id="salt (cryptography)" label="salt (cryptography)" />
+      <node id="counterfeiting" label="counterfeiting" />
+      <node id="counterfeit drugs" label="counterfeit drugs" />
+      <node id="replica watch" label="replica watch" />
+      <node id="epigraphy" label="epigraphy" />
+      <node id="replica" label="replica" />
+      <node id="signature forgery" label="signature forgery" />
+      <node id="united states secret service" label="united states secret service" />
+      <node id="white collar crime" label="white collar crime" />
+      <node id="art forgery" label="art forgery" />
+      <node id="digital signature forgery" label="digital signature forgery" />
+      <node id="j. s. g. boggs" label="j. s. g. boggs" />
+      <node id="capgras delusion" label="capgras delusion" />
+      <node id="charlatan" label="charlatan" />
+      <node id="disability pretender" label="disability pretender" />
+      <node id="doppelg%c3%a4nger" label="doppelg%c3%a4nger" />
+      <node id="miriam coles harris" label="miriam coles harris" />
+      <node id="impostor syndrome" label="impostor syndrome" />
+      <node id="list of messiah claimants" label="list of messiah claimants" />
+      <node id="political decoy" label="political decoy" />
+      <node id="poseur" label="poseur" />
+      <node id="beale ciphers" label="beale ciphers" />
+      <node id="lost dutchman%27s gold mine" label="lost dutchman%27s gold mine" />
+      <node id="oak island" label="oak island" />
+      <node id="list of fictitious people" label="list of fictitious people" />
+      <node id="fictional character" label="fictional character" />
+      <node id="list of religious hoaxes" label="list of religious hoaxes" />
+      <node id="list of scholarly publishing hoaxes" label="list of scholarly publishing hoaxes" />
+      <node id="catfish (film)" label="catfish (film)" />
+      <node id="helen darville" label="helen darville" />
+      <node id="hitler diaries" label="hitler diaries" />
+      <node id="clifford irving" label="clifford irving" />
+      <node id="anthony godby johnson" label="anthony godby johnson" />
+      <node id="journalistic scandal" label="journalistic scandal" />
+      <node id="jt leroy" label="jt leroy" />
+      <node id="nasdijj" label="nasdijj" />
+      <node id="dave pelzer" label="dave pelzer" />
+      <node id="pseudepigrapha" label="pseudepigrapha" />
+      <node id="margaret seltzer" label="margaret seltzer" />
+      <node id="b. wongar" label="b. wongar" />
+      <node id="brand" label="brand" />
+      <node id="concentration of media ownership" label="concentration of media ownership" />
+      <node id="consumer confusion" label="consumer confusion" />
+      <node id="consumer psychology" label="consumer psychology" />
+      <node id="consumer science" label="consumer science" />
+      <node id="demagogy" label="demagogy" />
+      <node id="gatekeeping (communication)" label="gatekeeping (communication)" />
+      <node id="guerrilla marketing" label="guerrilla marketing" />
+      <node id="ideocracy" label="ideocracy" />
+      <node id="ideology" label="ideology" />
+      <node id="indoctrination" label="indoctrination" />
+      <node id="media regulation" label="media regulation" />
+      <node id="managing the news" label="managing the news" />
+      <node id="promotion (marketing)" label="promotion (marketing)" />
+      <node id="sourcewatch" label="sourcewatch" />
+      <node id="the true believer" label="the true believer" />
+      <node id="under color of authority" label="under color of authority" />
+      <node id="viral marketing" label="viral marketing" />
+      <node id="artificial life" label="artificial life" />
+      <node id="artificial society" label="artificial society" />
+      <node id="augmented reality" label="augmented reality" />
+      <node id="boltzmann brain" label="boltzmann brain" />
+      <node id="computational sociology" label="computational sociology" />
+      <node id="consensus reality" label="consensus reality" />
+      <node id="digital philosophy" label="digital philosophy" />
+      <node id="digital physics" label="digital physics" />
+      <node id="hyperreality" label="hyperreality" />
+      <node id="margolus%e2%80%93levitin theorem" label="margolus%e2%80%93levitin theorem" />
+      <node id="metaverse" label="metaverse" />
+      <node id="mind uploading" label="mind uploading" />
+      <node id="openworm" label="openworm" />
+      <node id="philosophy of information" label="philosophy of information" />
+      <node id="simulation hypothesis" label="simulation hypothesis" />
+      <node id="social simulation" label="social simulation" />
+      <node id="theory of knowledge" label="theory of knowledge" />
+      <node id="omega point (tipler)" label="omega point (tipler)" />
+      <node id="virtual reality simulator" label="virtual reality simulator" />
+      <node id="virtual world" label="virtual world" />
+      <node id="nick bostrom" label="nick bostrom" />
+      <node id="ren%c3%a9 descartes" label="ren%c3%a9 descartes" />
+      <node id="evil demon" label="evil demon" />
+      <node id="george berkeley" label="george berkeley" />
+      <node id="subjective idealism" label="subjective idealism" />
+      <node id="wikipedia:citation needed" label="wikipedia:citation needed" />
+      <node id="plato" label="plato" />
+      <node id="allegory of the cave" label="allegory of the cave" />
+      <node id="zhuang zhou" label="zhuang zhou" />
+      <node id="zhuangzi (book)#&quot;the butterfly dream&quot;" label="zhuangzi (book)#&quot;the butterfly dream&quot;" />
+      <node id="list of scholarly publishing stings" label="list of scholarly publishing stings" />
+      <node id="chip morningstar" label="chip morningstar" />
+      <node id="dr. fox effect" label="dr. fox effect" />
+      <node id="politics and the english language" label="politics and the english language" />
+      <node id="george orwell" label="george orwell" />
+      <node id="postmodernism generator" label="postmodernism generator" />
+      <node id="scigen" label="scigen" />
+      <node id="bogdanov affair" label="bogdanov affair" />
+      <node id="physics envy" label="physics envy" />
+      <node id="big fish" label="big fish" />
+      <node id="tim burton" label="tim burton" />
+      <node id="bill brasky" label="bill brasky" />
+      <node id="cars toons" label="cars toons" />
+      <node id="mater (cars)" label="mater (cars)" />
+      <node id="fairy tale" label="fairy tale" />
+      <node id="folklore" label="folklore" />
+      <node id="legend" label="legend" />
+      <node id="myth" label="myth" />
+      <node id="snipe hunt" label="snipe hunt" />
+      <node id="the most interesting man in the world" label="the most interesting man in the world" />
+      <node id="unreliable narrator" label="unreliable narrator" />
+    </nodes>
+    <edges>
+      <edge id="0" source="rumor" target="apple community" />
+      <edge id="1" source="rumor" target="blind item" />
+      <edge id="2" source="rumor" target="snopes.com" />
+      <edge id="3" source="rumor" target="pheme (project)" />
+      <edge id="4" source="rumor" target="hoax" />
+      <edge id="5" source="rumor" target="circular source" />
+      <edge id="6" source="rumor" target="fake news" />
+      <edge id="7" source="apple community" target="rumor" />
+      <edge id="8" source="blind item" target="circular sourcing" />
+      <edge id="9" source="blind item" target="defamation" />
+      <edge id="10" source="blind item" target="innuendo" />
+      <edge id="11" source="blind item" target="roman %c3%a0 clef" />
+      <edge id="12" source="blind item" target="rumor" />
+      <edge id="13" source="snopes.com" target="truthorfiction.com" />
+      <edge id="14" source="snopes.com" target="factcheck.org" />
+      <edge id="15" source="snopes.com" target="the straight dope" />
+      <edge id="16" source="snopes.com" target="the skeptic%27s dictionary" />
+      <edge id="17" source="snopes.com" target="mythbusters" />
+      <edge id="18" source="snopes.com" target="list of common misconceptions" />
+      <edge id="19" source="hoax" target="conspiracy theory" />
+      <edge id="20" source="hoax" target="counterfeit" />
+      <edge id="21" source="hoax" target="e mail spoofing" />
+      <edge id="22" source="hoax" target="fake memoirs" />
+      <edge id="23" source="hoax" target="fake news website" />
+      <edge id="24" source="hoax" target="false document" />
+      <edge id="25" source="hoax" target="falsity" />
+      <edge id="26" source="hoax" target="fictitious entry" />
+      <edge id="27" source="hoax" target="forgery" />
+      <edge id="28" source="hoax" target="impostor" />
+      <edge id="29" source="hoax" target="list of hoaxes" />
+      <edge id="30" source="hoax" target="literary forgery" />
+      <edge id="31" source="hoax" target="media manipulation" />
+      <edge id="32" source="hoax" target="musical hoax" />
+      <edge id="33" source="hoax" target="simulated reality" />
+      <edge id="34" source="hoax" target="sokal affair" />
+      <edge id="35" source="hoax" target="tall tale" />
+      <edge id="36" source="hoax" target="the yes men" />
+      <edge id="37" source="hoax" target="virus hoax" />
+      <edge id="38" source="hoax" target="website spoofing" />
+      <edge id="39" source="circular source" target="media echo chamber" />
+      <edge id="40" source="circular source" target="circular reference" />
+      <edge id="41" source="circular source" target="ghost word" />
+      <edge id="42" source="circular source" target="hoax" />
+      <edge id="43" source="circular source" target="rumor" />
+      <edge id="44" source="circular source" target="woozle effect" />
+      <edge id="45" source="circular source" target="reliability of wikipedia" />
+      <edge id="46" source="circular source" target="wikipedia:list of citogenesis incidents" />
+      <edge id="47" source="fake news" target="alarmism" />
+      <edge id="48" source="fake news" target="alternative facts" />
+      <edge id="49" source="fake news" target="climate change denial" />
+      <edge id="50" source="fake news" target="demoralization (warfare)" />
+      <edge id="51" source="fake news" target="fearmongering" />
+      <edge id="52" source="fake news" target="internet meme" />
+      <edge id="53" source="fake news" target="journalism ethics and standards" />
+      <edge id="54" source="fake news" target="lying press" />
+      <edge id="55" source="fake news" target="media bias" />
+      <edge id="56" source="fake news" target="media coverage of north korea" />
+      <edge id="57" source="fake news" target="pseudohistory" />
+      <edge id="58" source="gossip" target="altruism" />
+      <edge id="59" source="gossip" target="bullying" />
+      <edge id="60" source="gossip" target="blind item" />
+      <edge id="61" source="gossip" target="clique" />
+      <edge id="62" source="gossip" target="communication in small groups" />
+      <edge id="63" source="gossip" target="curiosity" />
+      <edge id="64" source="gossip" target="false dilemma" />
+      <edge id="65" source="gossip" target="gossip magazines" />
+      <edge id="66" source="gossip" target="impression management" />
+      <edge id="67" source="gossip" target="interpersonal relationship" />
+      <edge id="68" source="gossip" target="libel" />
+      <edge id="69" source="gossip" target="misinformation" />
+      <edge id="70" source="gossip" target="personal network" />
+      <edge id="71" source="gossip" target="popularity" />
+      <edge id="72" source="gossip" target="respectability" />
+      <edge id="73" source="gossip" target="rumor" />
+      <edge id="74" source="gossip" target="scandal" />
+      <edge id="75" source="gossip" target="sexual selection in human evolution" />
+      <edge id="76" source="gossip" target="social perception" />
+      <edge id="77" source="gossip" target="social status" />
+      <edge id="78" source="gossip" target="word of mouth" />
+      <edge id="79" source="gossip" target="yenta" />
+      <edge id="80" source="gossip" target="backbiting" />
+      <edge id="81" source="altruism" target="altruria, california" />
+      <edge id="82" source="altruism" target="charity (practice)" />
+      <edge id="83" source="altruism" target="charitable organization" />
+      <edge id="84" source="altruism" target="comedy of the commons" />
+      <edge id="85" source="altruism" target="consideration" />
+      <edge id="86" source="altruism" target="earning to give" />
+      <edge id="87" source="altruism" target="effective altruism" />
+      <edge id="88" source="altruism" target="egotism" />
+      <edge id="89" source="altruism" target="empathy" />
+      <edge id="90" source="altruism" target="empathy altruism" />
+      <edge id="91" source="altruism" target="family economics" />
+      <edge id="92" source="altruism" target="gene centered view of evolution" />
+      <edge id="93" source="altruism" target="giving pledge" />
+      <edge id="94" source="altruism" target="inclusive fitness" />
+      <edge id="95" source="altruism" target="group selection" />
+      <edge id="96" source="altruism" target="humanity (virtue)" />
+      <edge id="97" source="altruism" target="kin selection" />
+      <edge id="98" source="altruism" target="misanthropy" />
+      <edge id="99" source="altruism" target="mutual aid (organization)" />
+      <edge id="100" source="altruism" target="philanthropy" />
+      <edge id="101" source="altruism" target="prisoner%27s dilemma" />
+      <edge id="102" source="altruism" target="prosocial behavior" />
+      <edge id="103" source="altruism" target="random act of kindness" />
+      <edge id="104" source="altruism" target="reciprocal altruism" />
+      <edge id="105" source="altruism" target="selfishness" />
+      <edge id="106" source="altruism" target="social psychology" />
+      <edge id="107" source="altruism" target="solidarity (sociology)" />
+      <edge id="108" source="altruism" target="tit for tat" />
+      <edge id="109" source="bullying" target="book:bullying" />
+      <edge id="110" source="clique" target="adolescent cliques" />
+      <edge id="111" source="clique" target="cabal" />
+      <edge id="112" source="clique" target="dunbar%27s number" />
+      <edge id="113" source="communication in small groups" target="bona fide group" />
+      <edge id="114" source="communication in small groups" target="decision downloading" />
+      <edge id="115" source="communication in small groups" target="dunbar%27s number" />
+      <edge id="116" source="communication in small groups" target="group dynamics" />
+      <edge id="117" source="curiosity" target="broaden and build" />
+      <edge id="118" source="curiosity" target="interest (emotion)" />
+      <edge id="119" source="curiosity" target="inquiry" />
+      <edge id="120" source="curiosity" target="play (activity)" />
+      <edge id="121" source="false dilemma" target="behaviorism" />
+      <edge id="122" source="false dilemma" target="bivalence" />
+      <edge id="123" source="false dilemma" target="correlative based fallacies" />
+      <edge id="124" source="false dilemma" target="critical theory" />
+      <edge id="125" source="false dilemma" target="degrees of truth" />
+      <edge id="126" source="false dilemma" target="euthyphro dilemma" />
+      <edge id="127" source="false dilemma" target="fallacy of the single cause" />
+      <edge id="128" source="false dilemma" target="half truth" />
+      <edge id="129" source="false dilemma" target="hobson%27s choice" />
+      <edge id="130" source="false dilemma" target="law of excluded middle" />
+      <edge id="131" source="false dilemma" target="learned helplessness" />
+      <edge id="132" source="false dilemma" target="lewis%27 trilemma" />
+      <edge id="133" source="false dilemma" target="loaded question" />
+      <edge id="134" source="false dilemma" target="love%e2%80%93hate relationship" />
+      <edge id="135" source="false dilemma" target="many valued logic" />
+      <edge id="136" source="false dilemma" target="morton%27s fork" />
+      <edge id="137" source="false dilemma" target="nolan chart" />
+      <edge id="138" source="false dilemma" target="nondualism" />
+      <edge id="139" source="false dilemma" target="none of the above" />
+      <edge id="140" source="false dilemma" target="obscurantism" />
+      <edge id="141" source="false dilemma" target="one party system" />
+      <edge id="142" source="false dilemma" target="pascal%27s wager" />
+      <edge id="143" source="false dilemma" target="perspectivism" />
+      <edge id="144" source="false dilemma" target="principle of bivalence" />
+      <edge id="145" source="false dilemma" target="rogerian argument" />
+      <edge id="146" source="false dilemma" target="show election" />
+      <edge id="147" source="false dilemma" target="slippery slope" />
+      <edge id="148" source="false dilemma" target="sorites paradox" />
+      <edge id="149" source="false dilemma" target="splitting (psychology)" />
+      <edge id="150" source="false dilemma" target="strange loop#in cognitive science" />
+      <edge id="151" source="false dilemma" target="straw man" />
+      <edge id="152" source="false dilemma" target="thinking outside the box" />
+      <edge id="153" source="false dilemma" target="two party system" />
+      <edge id="154" source="false dilemma" target="unreasonable" />
+      <edge id="155" source="false dilemma" target="you%27re either with us, or against us" />
+      <edge id="156" source="gossip magazines" target="defamation" />
+      <edge id="157" source="gossip magazines" target="disinformation" />
+      <edge id="158" source="gossip magazines" target="gossip columnist" />
+      <edge id="159" source="gossip magazines" target="tabloid (newspaper format)" />
+      <edge id="160" source="gossip magazines" target="tabloid journalism" />
+      <edge id="161" source="impression management" target="calculating visions: kennedy, johnson, and civil rights" />
+      <edge id="162" source="impression management" target="character mask" />
+      <edge id="163" source="impression management" target="charm offensive" />
+      <edge id="164" source="impression management" target="dramaturgy (sociology)" />
+      <edge id="165" source="impression management" target="first impression (psychology)" />
+      <edge id="166" source="impression management" target="ingratiation" />
+      <edge id="167" source="impression management" target="online identity management" />
+      <edge id="168" source="impression management" target="on the internet, nobody knows you%27re a dog" />
+      <edge id="169" source="impression management" target="personal branding" />
+      <edge id="170" source="impression management" target="register (sociolinguistics)" />
+      <edge id="171" source="impression management" target="reputation capital" />
+      <edge id="172" source="impression management" target="reputation management" />
+      <edge id="173" source="impression management" target="self monitoring theory" />
+      <edge id="174" source="impression management" target="self verification theory" />
+      <edge id="175" source="impression management" target="signalling (economics)" />
+      <edge id="176" source="impression management" target="spin (public relations)" />
+      <edge id="177" source="impression management" target="superficial charm" />
+      <edge id="178" source="impression management" target="stigma management" />
+      <edge id="179" source="interpersonal relationship" target="discontinuity view" />
+      <edge id="180" source="interpersonal relationship" target="interactionism" />
+      <edge id="181" source="interpersonal relationship" target="interpersonal attraction" />
+      <edge id="182" source="interpersonal relationship" target="interpersonal tie" />
+      <edge id="183" source="interpersonal relationship" target="outline of relationships" />
+      <edge id="184" source="interpersonal relationship" target="relationship status" />
+      <edge id="185" source="interpersonal relationship" target="relationship forming" />
+      <edge id="186" source="interpersonal relationship" target="socionics" />
+      <edge id="187" source="libel" target="absence of malice" />
+      <edge id="188" source="libel" target="annie oakley#libel cases" />
+      <edge id="189" source="libel" target="anti defamation league" />
+      <edge id="190" source="libel" target="blind item" />
+      <edge id="191" source="libel" target="blood libel" />
+      <edge id="192" source="libel" target="character assassination" />
+      <edge id="193" source="libel" target="chilling effect (law)" />
+      <edge id="194" source="libel" target="crimen injuria" />
+      <edge id="195" source="libel" target="criminal libel" />
+      <edge id="196" source="libel" target="cyber defamation law" />
+      <edge id="197" source="libel" target="defamation act" />
+      <edge id="198" source="libel" target="defamation of religion and the united nations" />
+      <edge id="199" source="libel" target="dignitary torts" />
+      <edge id="200" source="libel" target="false accusations" />
+      <edge id="201" source="libel" target="intentional torts" />
+      <edge id="202" source="libel" target="libel act" />
+      <edge id="203" source="libel" target="libel tourism" />
+      <edge id="204" source="libel" target="malicious prosecution" />
+      <edge id="205" source="libel" target="political libel" />
+      <edge id="206" source="libel" target="rumor" />
+      <edge id="207" source="libel" target="small penis rule" />
+      <edge id="208" source="libel" target="smear campaign" />
+      <edge id="209" source="libel" target="martin v. hearst corporation" />
+      <edge id="210" source="libel" target="rector v. mlb" />
+      <edge id="211" source="misinformation" target="list of common misconceptions" />
+      <edge id="212" source="misinformation" target="character assassination" />
+      <edge id="213" source="misinformation" target="defamation" />
+      <edge id="214" source="misinformation" target="counter misinformation team" />
+      <edge id="215" source="misinformation" target="disinformation" />
+      <edge id="216" source="misinformation" target="factoid" />
+      <edge id="217" source="misinformation" target="fallacy" />
+      <edge id="218" source="misinformation" target="list of fallacies" />
+      <edge id="219" source="misinformation" target="gossip" />
+      <edge id="220" source="misinformation" target="junk science" />
+      <edge id="221" source="misinformation" target="euromyth" />
+      <edge id="222" source="misinformation" target="quotation" />
+      <edge id="223" source="misinformation" target="propaganda" />
+      <edge id="224" source="misinformation" target="pseudoscience" />
+      <edge id="225" source="misinformation" target="rumor" />
+      <edge id="226" source="misinformation" target="social engineering (political science)" />
+      <edge id="227" source="misinformation" target="social engineering (security)" />
+      <edge id="228" source="misinformation" target="persuasion" />
+      <edge id="229" source="popularity" target="peer group" />
+      <edge id="230" source="popularity" target="school bullying" />
+      <edge id="231" source="popularity" target="self esteem" />
+      <edge id="232" source="popularity" target="social status" />
+      <edge id="233" source="respectability" target="admiration" />
+      <edge id="234" source="respectability" target="dignity" />
+      <edge id="235" source="respectability" target="etiquette" />
+      <edge id="236" source="respectability" target="face (sociological concept)" />
+      <edge id="237" source="respectability" target="honor" />
+      <edge id="238" source="respectability" target="respectability politics" />
+      <edge id="239" source="respectability" target="self esteem" />
+      <edge id="240" source="respectability" target="tai tou" />
+      <edge id="241" source="respectability" target="unconditional positive regard" />
+      <edge id="242" source="scandal" target="list of scandals with %22 gate%22 suffix" />
+      <edge id="243" source="sexual selection in human evolution" target="physical attractiveness" />
+      <edge id="244" source="sexual selection in human evolution" target="marriage squeeze" />
+      <edge id="245" source="sexual selection in human evolution" target="hypergamy" />
+      <edge id="246" source="sexual selection in human evolution" target="human mating strategies" />
+      <edge id="247" source="social perception" target="conformity" />
+      <edge id="248" source="social perception" target="framing (social sciences)" />
+      <edge id="249" source="social perception" target="group dynamics" />
+      <edge id="250" source="social perception" target="interpersonal attraction" />
+      <edge id="251" source="social perception" target="interpersonal perception" />
+      <edge id="252" source="social perception" target="joint attention" />
+      <edge id="253" source="social perception" target="nonverbal communication" />
+      <edge id="254" source="social perception" target="persuasion" />
+      <edge id="255" source="social perception" target="prejudice" />
+      <edge id="256" source="social status" target="achieved status" />
+      <edge id="257" source="social status" target="ascribed status" />
+      <edge id="258" source="social status" target="dominance hierarchy" />
+      <edge id="259" source="social status" target="economic mobility" />
+      <edge id="260" source="social status" target="power (social and political)" />
+      <edge id="261" source="social status" target="ranked society" />
+      <edge id="262" source="social status" target="social class" />
+      <edge id="263" source="social status" target="social inequality" />
+      <edge id="264" source="social status" target="social stratification" />
+      <edge id="265" source="social status" target="socioeconomic status" />
+      <edge id="266" source="social status" target="sociometric status" />
+      <edge id="267" source="social status" target="status attainment" />
+      <edge id="268" source="social status" target="status set" />
+      <edge id="269" source="social status" target="status symbol" />
+      <edge id="270" source="word of mouth" target="electronic word of mouth" />
+      <edge id="271" source="word of mouth" target="communication" />
+      <edge id="272" source="word of mouth" target="klout" />
+      <edge id="273" source="word of mouth" target="oral communication" />
+      <edge id="274" source="word of mouth" target="oral history" />
+      <edge id="275" source="word of mouth" target="oral tradition" />
+      <edge id="276" source="word of mouth" target="peerindex" />
+      <edge id="277" source="word of mouth" target="storytelling" />
+      <edge id="278" source="word of mouth" target="train of thought" />
+      <edge id="279" source="word of mouth" target="two step flow of communication" />
+      <edge id="280" source="word of mouth" target="word of mouth marketing" />
+      <edge id="281" source="yenta" target="yentl" />
+      <edge id="282" source="yenta" target="yente serdatzky" />
+      <edge id="283" source="backbiting" target="gossip" />
+      <edge id="284" source="list of common misconceptions" target="conventional wisdom" />
+      <edge id="285" source="list of common misconceptions" target="counterintuitive" />
+      <edge id="286" source="list of common misconceptions" target="factoid" />
+      <edge id="287" source="list of common misconceptions" target="list of cognitive biases" />
+      <edge id="288" source="list of common misconceptions" target="list of fallacies" />
+      <edge id="289" source="list of common misconceptions" target="list of topics characterized as pseudoscience" />
+      <edge id="290" source="list of common misconceptions" target="old wives%27 tale" />
+      <edge id="291" source="list of common misconceptions" target="outline of public relations" />
+      <edge id="292" source="list of common misconceptions" target="pseudodoxia epidemica" />
+      <edge id="293" source="list of common misconceptions" target="pseudoscience" />
+      <edge id="294" source="list of common misconceptions" target="qi" />
+      <edge id="295" source="list of common misconceptions" target="stereotype" />
+      <edge id="296" source="list of common misconceptions" target="the straight dope" />
+      <edge id="297" source="list of common misconceptions" target="urban legends about drugs" />
+      <edge id="298" source="character assassination" target="black propaganda" />
+      <edge id="299" source="character assassination" target="fair game (scientology)" />
+      <edge id="300" source="character assassination" target="information warfare" />
+      <edge id="301" source="character assassination" target="pittura infamante" />
+      <edge id="302" source="character assassination" target="kompromat" />
+      <edge id="303" source="character assassination" target="mccarthyism" />
+      <edge id="304" source="character assassination" target="hollywood blacklist" />
+      <edge id="305" source="character assassination" target="damnatio memoriae" />
+      <edge id="306" source="character assassination" target="smear campaign" />
+      <edge id="307" source="character assassination" target="social undermining" />
+      <edge id="308" source="character assassination" target="personal attack" />
+      <edge id="309" source="character assassination" target="tone policing" />
+      <edge id="310" source="defamation" target="absence of malice" />
+      <edge id="311" source="defamation" target="annie oakley#libel cases" />
+      <edge id="312" source="defamation" target="anti defamation league" />
+      <edge id="313" source="defamation" target="blind item" />
+      <edge id="314" source="defamation" target="blood libel" />
+      <edge id="315" source="defamation" target="character assassination" />
+      <edge id="316" source="defamation" target="chilling effect (law)" />
+      <edge id="317" source="defamation" target="crimen injuria" />
+      <edge id="318" source="defamation" target="criminal libel" />
+      <edge id="319" source="defamation" target="cyber defamation law" />
+      <edge id="320" source="defamation" target="defamation act" />
+      <edge id="321" source="defamation" target="defamation of religion and the united nations" />
+      <edge id="322" source="defamation" target="dignitary torts" />
+      <edge id="323" source="defamation" target="false accusations" />
+      <edge id="324" source="defamation" target="intentional torts" />
+      <edge id="325" source="defamation" target="libel act" />
+      <edge id="326" source="defamation" target="libel tourism" />
+      <edge id="327" source="defamation" target="malicious prosecution" />
+      <edge id="328" source="defamation" target="political libel" />
+      <edge id="329" source="defamation" target="rumor" />
+      <edge id="330" source="defamation" target="small penis rule" />
+      <edge id="331" source="defamation" target="smear campaign" />
+      <edge id="332" source="defamation" target="martin v. hearst corporation" />
+      <edge id="333" source="defamation" target="rector v. mlb" />
+      <edge id="334" source="disinformation" target="1995 cia disinformation controversy" />
+      <edge id="335" source="disinformation" target="active measures" />
+      <edge id="336" source="disinformation" target="active measures working group" />
+      <edge id="337" source="disinformation" target="counter misinformation team" />
+      <edge id="338" source="disinformation" target="denial and deception" />
+      <edge id="339" source="disinformation" target="fact checking" />
+      <edge id="340" source="disinformation" target="fake news" />
+      <edge id="341" source="disinformation" target="false flag" />
+      <edge id="342" source="disinformation" target="fear, uncertainty and doubt" />
+      <edge id="343" source="disinformation" target="forgery as covert operation" />
+      <edge id="344" source="disinformation" target="information warfare" />
+      <edge id="345" source="disinformation" target="internet manipulation" />
+      <edge id="346" source="disinformation" target="kompromat" />
+      <edge id="347" source="disinformation" target="media censorship and disinformation during the gezi park protests" />
+      <edge id="348" source="disinformation" target="manufacturing consent" />
+      <edge id="349" source="disinformation" target="operation shocker" />
+      <edge id="350" source="disinformation" target="operation toucan (kgb)" />
+      <edge id="351" source="disinformation" target="politico media complex" />
+      <edge id="352" source="disinformation" target="post truth politics" />
+      <edge id="353" source="disinformation" target="propaganda in the soviet union" />
+      <edge id="354" source="disinformation" target="russian military deception" />
+      <edge id="355" source="disinformation" target="sharp power" />
+      <edge id="356" source="disinformation" target="social engineering (political science)" />
+      <edge id="357" source="factoid" target="chuck norris facts" />
+      <edge id="358" source="factoid" target="groupthink" />
+      <edge id="359" source="factoid" target="just so story" />
+      <edge id="360" source="factoid" target="list of common misconceptions" />
+      <edge id="361" source="factoid" target="meme" />
+      <edge id="362" source="factoid" target="talking point" />
+      <edge id="363" source="factoid" target="trivia" />
+      <edge id="364" source="factoid" target="truthiness" />
+      <edge id="365" source="factoid" target="urban legend" />
+      <edge id="366" source="factoid" target="woozle effect" />
+      <edge id="367" source="fallacy" target="list of cognitive biases" />
+      <edge id="368" source="fallacy" target="list of fallacies" />
+      <edge id="369" source="fallacy" target="list of memory biases" />
+      <edge id="370" source="fallacy" target="list of paradoxes" />
+      <edge id="371" source="fallacy" target="special:search/" />
+      <edge id="372" source="fallacy" target="anti pattern" />
+      <edge id="373" source="fallacy" target="argumentation theory" />
+      <edge id="374" source="fallacy" target="argument map" />
+      <edge id="375" source="fallacy" target="association fallacy" />
+      <edge id="376" source="fallacy" target="cogency" />
+      <edge id="377" source="fallacy" target="cognitive bias" />
+      <edge id="378" source="fallacy" target="cognitive distortion" />
+      <edge id="379" source="fallacy" target="critical thinking" />
+      <edge id="380" source="fallacy" target="demagogue" />
+      <edge id="381" source="fallacy" target="evidence" />
+      <edge id="382" source="fallacy" target="fallacies of definition" />
+      <edge id="383" source="fallacy" target="false premise" />
+      <edge id="384" source="fallacy" target="false statement" />
+      <edge id="385" source="fallacy" target="inference objection" />
+      <edge id="386" source="fallacy" target="inquiry" />
+      <edge id="387" source="fallacy" target="invalid proof" />
+      <edge id="388" source="fallacy" target="jumping to conclusions" />
+      <edge id="389" source="fallacy" target="lemma (logic)" />
+      <edge id="390" source="fallacy" target="mathematical fallacy" />
+      <edge id="391" source="fallacy" target="paradox" />
+      <edge id="392" source="fallacy" target="prosecutor%27s fallacy" />
+      <edge id="393" source="fallacy" target="sophism" />
+      <edge id="394" source="fallacy" target="soundness" />
+      <edge id="395" source="fallacy" target="lies, damned lies, and statistics" />
+      <edge id="396" source="fallacy" target="truth" />
+      <edge id="397" source="fallacy" target="validity" />
+      <edge id="398" source="fallacy" target="victim blaming" />
+      <edge id="399" source="fallacy" target="attacking faulty reasoning" />
+      <edge id="400" source="fallacy" target="straight and crooked thinking" />
+      <edge id="401" source="fallacy" target="paul e. meehl#applied clinical views and work" />
+      <edge id="402" source="list of fallacies" target="list of cognitive biases" />
+      <edge id="403" source="list of fallacies" target="list of common misconceptions" />
+      <edge id="404" source="list of fallacies" target="list of memory biases" />
+      <edge id="405" source="list of fallacies" target="list of paradoxes" />
+      <edge id="406" source="list of fallacies" target="index of public relations related articles" />
+      <edge id="407" source="list of fallacies" target="mathematical fallacy" />
+      <edge id="408" source="list of fallacies" target="sophistical refutations" />
+      <edge id="409" source="list of fallacies" target="straight and crooked thinking" />
+      <edge id="410" source="junk science" target="agnotology" />
+      <edge id="411" source="junk science" target="antiscience" />
+      <edge id="412" source="junk science" target="cargo cult science" />
+      <edge id="413" source="junk science" target="creationism" />
+      <edge id="414" source="junk science" target="daubert standard" />
+      <edge id="415" source="junk science" target="denialism" />
+      <edge id="416" source="junk science" target="federal rules of evidence" />
+      <edge id="417" source="junk science" target="fringe theory" />
+      <edge id="418" source="junk science" target="fringe science" />
+      <edge id="419" source="junk science" target="frye standard" />
+      <edge id="420" source="junk science" target="intelligent design" />
+      <edge id="421" source="junk science" target="list of topics characterized as pseudoscience" />
+      <edge id="422" source="junk science" target="normative science" />
+      <edge id="423" source="junk science" target="pathological science" />
+      <edge id="424" source="junk science" target="science by press conference" />
+      <edge id="425" source="junk science" target="scientific literacy" />
+      <edge id="426" source="junk science" target="scientific method" />
+      <edge id="427" source="euromyth" target="brexit" />
+      <edge id="428" source="euromyth" target="card stacking" />
+      <edge id="429" source="euromyth" target="counterpropaganda" />
+      <edge id="430" source="euromyth" target="disinformation" />
+      <edge id="431" source="euromyth" target="euroscepticism" />
+      <edge id="432" source="euromyth" target="fake news" />
+      <edge id="433" source="euromyth" target="half truth" />
+      <edge id="434" source="euromyth" target="news propaganda" />
+      <edge id="435" source="euromyth" target="political alienation" />
+      <edge id="436" source="euromyth" target="political apathy" />
+      <edge id="437" source="euromyth" target="reputation management" />
+      <edge id="438" source="euromyth" target="spin (propaganda)" />
+      <edge id="439" source="euromyth" target="urban legend" />
+      <edge id="440" source="quotation" target="adage" />
+      <edge id="441" source="quotation" target="aphorism" />
+      <edge id="442" source="quotation" target="block quotation" />
+      <edge id="443" source="quotation" target="darmok" />
+      <edge id="444" source="quotation" target="epigram" />
+      <edge id="445" source="quotation" target="fallacy of quoting out of context" />
+      <edge id="446" source="quotation" target="saying" />
+      <edge id="447" source="quotation" target="musical quotation" />
+      <edge id="448" source="quotation" target="nested quotation" />
+      <edge id="449" source="quotation" target="proverb" />
+      <edge id="450" source="quotation" target="scare quotes" />
+      <edge id="451" source="quotation" target="sic" />
+      <edge id="452" source="quotation" target="use%e2%80%93mention distinction" />
+      <edge id="453" source="quotation" target="quotation mark" />
+      <edge id="454" source="propaganda" target="ace (military)" />
+      <edge id="455" source="propaganda" target="black propaganda" />
+      <edge id="456" source="propaganda" target="cartographic propaganda" />
+      <edge id="457" source="propaganda" target="crowd manipulation" />
+      <edge id="458" source="propaganda" target="disinformation" />
+      <edge id="459" source="propaganda" target="edith cavell#first world war propaganda" />
+      <edge id="460" source="propaganda" target="fake news" />
+      <edge id="461" source="propaganda" target="fake news website" />
+      <edge id="462" source="propaganda" target="mind games" />
+      <edge id="463" source="propaganda" target="misinformation" />
+      <edge id="464" source="propaganda" target="moral panic" />
+      <edge id="465" source="propaganda" target="music and political warfare" />
+      <edge id="466" source="propaganda" target="nazi propaganda" />
+      <edge id="467" source="propaganda" target="overview of 21st century propaganda" />
+      <edge id="468" source="propaganda" target="perception management" />
+      <edge id="469" source="propaganda" target="politainment" />
+      <edge id="470" source="propaganda" target="political warfare" />
+      <edge id="471" source="propaganda" target="post truth politics" />
+      <edge id="472" source="propaganda" target="category:propaganda by country" />
+      <edge id="473" source="propaganda" target="propaganda techniques" />
+      <edge id="474" source="propaganda" target="psychological warfare" />
+      <edge id="475" source="propaganda" target="propaganda in north korea" />
+      <edge id="476" source="propaganda" target="smear campaign" />
+      <edge id="477" source="pseudoscience" target="antiscience" />
+      <edge id="478" source="pseudoscience" target="climate change denial" />
+      <edge id="479" source="pseudoscience" target="credulity" />
+      <edge id="480" source="pseudoscience" target="list of topics characterized as pseudoscience" />
+      <edge id="481" source="pseudoscience" target="not even wrong" />
+      <edge id="482" source="pseudoscience" target="normative science" />
+      <edge id="483" source="pseudoscience" target="pseudolaw" />
+      <edge id="484" source="pseudoscience" target="pseudomathematics" />
+      <edge id="485" source="social engineering (political science)" target="culture change" />
+      <edge id="486" source="social engineering (political science)" target="edward bernays" />
+      <edge id="487" source="social engineering (political science)" target="engineers of the human soul" />
+      <edge id="488" source="social engineering (political science)" target="framing (social sciences)" />
+      <edge id="489" source="social engineering (political science)" target="jacque fresco" />
+      <edge id="490" source="social engineering (political science)" target="media manipulation" />
+      <edge id="491" source="social engineering (political science)" target="nudge theory" />
+      <edge id="492" source="social engineering (political science)" target="paternalism" />
+      <edge id="493" source="social engineering (political science)" target="perception management" />
+      <edge id="494" source="social engineering (political science)" target="political engineering" />
+      <edge id="495" source="social engineering (political science)" target="propaganda" />
+      <edge id="496" source="social engineering (political science)" target="public relations" />
+      <edge id="497" source="social engineering (political science)" target="psychological warfare" />
+      <edge id="498" source="social engineering (political science)" target="social constructionism" />
+      <edge id="499" source="social engineering (political science)" target="social control" />
+      <edge id="500" source="social engineering (political science)" target="social technology" />
+      <edge id="501" source="social engineering (political science)" target="total institution" />
+      <edge id="502" source="social engineering (security)" target="certified social engineering prevention specialist" />
+      <edge id="503" source="social engineering (security)" target="code shikara (computer worm)" />
+      <edge id="504" source="social engineering (security)" target="confidence trick" />
+      <edge id="505" source="social engineering (security)" target="countermeasure (computer)" />
+      <edge id="506" source="social engineering (security)" target="cyber humint" />
+      <edge id="507" source="social engineering (security)" target="cyberheist" />
+      <edge id="508" source="social engineering (security)" target="internet security awareness training" />
+      <edge id="509" source="social engineering (security)" target="it risk" />
+      <edge id="510" source="social engineering (security)" target="media prank" />
+      <edge id="511" source="social engineering (security)" target="penetration test" />
+      <edge id="512" source="social engineering (security)" target="phishing" />
+      <edge id="513" source="social engineering (security)" target="physical information security" />
+      <edge id="514" source="social engineering (security)" target="piggybacking (security)" />
+      <edge id="515" source="social engineering (security)" target="sms phishing" />
+      <edge id="516" source="social engineering (security)" target="threat (computer)" />
+      <edge id="517" source="social engineering (security)" target="voice phishing" />
+      <edge id="518" source="social engineering (security)" target="vulnerability (computing)" />
+      <edge id="519" source="persuasion" target="attitude behavior consistency" />
+      <edge id="520" source="persuasion" target="captatio benevolentiae" />
+      <edge id="521" source="persuasion" target="compliance gaining" />
+      <edge id="522" source="persuasion" target="judge%e2%80%93advisor system" />
+      <edge id="523" source="persuasion" target="perception management" />
+      <edge id="524" source="persuasion" target="regulatory focus theory" />
+      <edge id="525" source="persuasion" target="sleeper effect" />
+      <edge id="526" source="persuasion" target="social marketing" />
+      <edge id="527" source="1995 cia disinformation controversy" target="robert hanssen" />
+      <edge id="528" source="1995 cia disinformation controversy" target="harold james nicholson" />
+      <edge id="529" source="1995 cia disinformation controversy" target="john anthony walker" />
+      <edge id="530" source="1995 cia disinformation controversy" target="vitaly yurchenko" />
+      <edge id="531" source="active measures" target="active measures working group" />
+      <edge id="532" source="active measures" target="agent of influence" />
+      <edge id="533" source="active measures" target="agents provocateurs" />
+      <edge id="534" source="active measures" target="chronology of soviet secret police agencies" />
+      <edge id="535" source="active measures" target="covert operation" />
+      <edge id="536" source="active measures" target="first chief directorate" />
+      <edge id="537" source="active measures" target="front organization" />
+      <edge id="538" source="active measures" target="hybrid warfare" />
+      <edge id="539" source="active measures" target="kompromat" />
+      <edge id="540" source="active measures" target="mitrokhin archive" />
+      <edge id="541" source="active measures" target="poison laboratory of the soviet secret services" />
+      <edge id="542" source="active measures" target="russian interference in the 2016 united states elections" />
+      <edge id="543" source="active measures" target="soviet influence on the peace movement" />
+      <edge id="544" source="active measures" target="whataboutism" />
+      <edge id="545" source="active measures" target="world peace council" />
+      <edge id="546" source="active measures working group" target="active measures" />
+      <edge id="547" source="active measures working group" target="fake news website" />
+      <edge id="548" source="active measures working group" target="information warfare" />
+      <edge id="549" source="active measures working group" target="propaganda" />
+      <edge id="550" source="active measures working group" target="propaganda techniques" />
+      <edge id="551" source="active measures working group" target="psychological operations (united states)" />
+      <edge id="552" source="active measures working group" target="psychological warfare" />
+      <edge id="553" source="active measures working group" target="unconventional warfare" />
+      <edge id="554" source="active measures working group" target="war of ideas" />
+      <edge id="555" source="active measures working group" target="disinformation" />
+      <edge id="556" source="active measures working group" target="black propaganda" />
+      <edge id="557" source="active measures working group" target="counter misinformation team" />
+      <edge id="558" source="active measures working group" target="operation infektion" />
+      <edge id="559" source="active measures working group" target="united states information agency" />
+      <edge id="560" source="denial and deception" target="disinformation" />
+      <edge id="561" source="denial and deception" target="defense in depth" />
+      <edge id="562" source="denial and deception" target="plausible deniability" />
+      <edge id="563" source="denial and deception" target="false flag" />
+      <edge id="564" source="fact checking" target="copyeditor" />
+      <edge id="565" source="fact checking" target="investigative journalism" />
+      <edge id="566" source="fact checking" target="journalism" />
+      <edge id="567" source="fact checking" target="masthead (publishing)" />
+      <edge id="568" source="fact checking" target="misprint" />
+      <edge id="569" source="fact checking" target="watchdog journalism" />
+      <edge id="570" source="fact checking" target="post truth politics" />
+      <edge id="571" source="false flag" target="agent provocateur" />
+      <edge id="572" source="false flag" target="black propaganda" />
+      <edge id="573" source="false flag" target="casus belli" />
+      <edge id="574" source="false flag" target="covert operation" />
+      <edge id="575" source="false flag" target="denial and deception" />
+      <edge id="576" source="false flag" target="frameup" />
+      <edge id="577" source="false flag" target="front organization" />
+      <edge id="578" source="false flag" target="joe job" />
+      <edge id="579" source="false flag" target="mimicry" />
+      <edge id="580" source="false flag" target="state terrorism" />
+      <edge id="581" source="false flag" target="celle hole" />
+      <edge id="582" source="false flag" target="cia" />
+      <edge id="583" source="false flag" target="operation ajax" />
+      <edge id="584" source="false flag" target="united states" />
+      <edge id="585" source="false flag" target="gleiwitz incident" />
+      <edge id="586" source="false flag" target="operation himmler" />
+      <edge id="587" source="false flag" target="lavon affair" />
+      <edge id="588" source="false flag" target="marxist leninist party of the netherlands" />
+      <edge id="589" source="false flag" target="masada action and defense movement" />
+      <edge id="590" source="false flag" target="operation greif" />
+      <edge id="591" source="false flag" target="battle of the bulge" />
+      <edge id="592" source="false flag" target="operation northwoods" />
+      <edge id="593" source="false flag" target="cuban revolution" />
+      <edge id="594" source="false flag" target="baralong incidents" />
+      <edge id="595" source="fear, uncertainty and doubt" target="agent provocateur" />
+      <edge id="596" source="fear, uncertainty and doubt" target="agnotology" />
+      <edge id="597" source="fear, uncertainty and doubt" target="culture of fear" />
+      <edge id="598" source="fear, uncertainty and doubt" target="denial and deception" />
+      <edge id="599" source="fear, uncertainty and doubt" target="dihydrogen monoxide hoax" />
+      <edge id="600" source="fear, uncertainty and doubt" target="discrediting tactic" />
+      <edge id="601" source="fear, uncertainty and doubt" target="dunning%e2%80%93kruger effect" />
+      <edge id="602" source="fear, uncertainty and doubt" target="embrace, extend, and extinguish" />
+      <edge id="603" source="fear, uncertainty and doubt" target="false flag" />
+      <edge id="604" source="fear, uncertainty and doubt" target="fearmongering" />
+      <edge id="605" source="fear, uncertainty and doubt" target="hoax" />
+      <edge id="606" source="fear, uncertainty and doubt" target="iago" />
+      <edge id="607" source="fear, uncertainty and doubt" target="moral panic" />
+      <edge id="608" source="fear, uncertainty and doubt" target="perception management" />
+      <edge id="609" source="fear, uncertainty and doubt" target="propaganda" />
+      <edge id="610" source="fear, uncertainty and doubt" target="religious paranoia" />
+      <edge id="611" source="fear, uncertainty and doubt" target="scareware" />
+      <edge id="612" source="fear, uncertainty and doubt" target="swiftboating" />
+      <edge id="613" source="fear, uncertainty and doubt" target="tin foil hat" />
+      <edge id="614" source="fear, uncertainty and doubt" target="vaporware" />
+      <edge id="615" source="forgery as covert operation" target="counterfeit money" />
+      <edge id="616" source="forgery as covert operation" target="subversion" />
+      <edge id="617" source="forgery as covert operation" target="outline of forgery" />
+      <edge id="618" source="forgery as covert operation" target="black propaganda" />
+      <edge id="619" source="forgery as covert operation" target="false document" />
+      <edge id="620" source="forgery as covert operation" target="counterpropaganda" />
+      <edge id="621" source="information warfare" target="black propaganda" />
+      <edge id="622" source="information warfare" target="active measures" />
+      <edge id="623" source="information warfare" target="character assassination" />
+      <edge id="624" source="information warfare" target="cyberwarfare" />
+      <edge id="625" source="information warfare" target="communications security" />
+      <edge id="626" source="information warfare" target="command and control warfare" />
+      <edge id="627" source="information warfare" target="disinformation" />
+      <edge id="628" source="information warfare" target="electronic warfare" />
+      <edge id="629" source="information warfare" target="historical revisionism (negationism)" />
+      <edge id="630" source="information warfare" target="fake news" />
+      <edge id="631" source="information warfare" target="fifth dimension operations" />
+      <edge id="632" source="information warfare" target="gatekeeper (politics)" />
+      <edge id="633" source="information warfare" target="industrial espionage" />
+      <edge id="634" source="information warfare" target="information operations" />
+      <edge id="635" source="information warfare" target="internet manipulation" />
+      <edge id="636" source="information warfare" target="irregular warfare" />
+      <edge id="637" source="information warfare" target="iwar" />
+      <edge id="638" source="information warfare" target="kompromat" />
+      <edge id="639" source="information warfare" target="network centric warfare" />
+      <edge id="640" source="information warfare" target="political warfare" />
+      <edge id="641" source="information warfare" target="psychological warfare" />
+      <edge id="642" source="information warfare" target="public affairs (military)" />
+      <edge id="643" source="information warfare" target="public relations" />
+      <edge id="644" source="information warfare" target="storm botnet" />
+      <edge id="645" source="information warfare" target="transparency (behavior)" />
+      <edge id="646" source="information warfare" target="chinese information operations and warfare" />
+      <edge id="647" source="information warfare" target="cyberwarfare in russia" />
+      <edge id="648" source="information warfare" target="taliban propaganda" />
+      <edge id="649" source="information warfare" target="white paper on el salvador" />
+      <edge id="650" source="information warfare" target="cia" />
+      <edge id="651" source="information warfare" target="cointelpro" />
+      <edge id="652" source="information warfare" target="enemy image" />
+      <edge id="653" source="information warfare" target="information operations roadmap" />
+      <edge id="654" source="information warfare" target="pentagon military analyst program" />
+      <edge id="655" source="information warfare" target="special activities division" />
+      <edge id="656" source="information warfare" target="edward bernays" />
+      <edge id="657" source="information warfare" target="active measures working group" />
+      <edge id="658" source="information warfare" target="titan rain" />
+      <edge id="659" source="information warfare" target="information operations (united states)" />
+      <edge id="660" source="internet manipulation" target="astroturfing" />
+      <edge id="661" source="internet manipulation" target="click farm" />
+      <edge id="662" source="internet manipulation" target="click fraud" />
+      <edge id="663" source="internet manipulation" target="clickbait" />
+      <edge id="664" source="internet manipulation" target="clickbot.a" />
+      <edge id="665" source="internet manipulation" target="conflict of interest editing on wikipedia" />
+      <edge id="666" source="internet manipulation" target="cost per impression" />
+      <edge id="667" source="internet manipulation" target="criticism of democracy" />
+      <edge id="668" source="internet manipulation" target="criticism of facebook#2014 emotion manipulation study" />
+      <edge id="669" source="internet manipulation" target="defamation" />
+      <edge id="670" source="internet manipulation" target="disinformation" />
+      <edge id="671" source="internet manipulation" target="education reform" />
+      <edge id="672" source="internet manipulation" target="fake likes" />
+      <edge id="673" source="internet manipulation" target="fake news" />
+      <edge id="674" source="internet manipulation" target="filter bubble" />
+      <edge id="675" source="internet manipulation" target="foreign electoral intervention" />
+      <edge id="676" source="internet manipulation" target="framing (social sciences)" />
+      <edge id="677" source="internet manipulation" target="identity theft" />
+      <edge id="678" source="internet manipulation" target="impersonator" />
+      <edge id="679" source="internet manipulation" target="media bias" />
+      <edge id="680" source="internet manipulation" target="category:media manipulation" />
+      <edge id="681" source="internet manipulation" target="meme hack" />
+      <edge id="682" source="internet manipulation" target="misinformation" />
+      <edge id="683" source="internet manipulation" target="ntrepid#military contract" />
+      <edge id="684" source="internet manipulation" target="page view" />
+      <edge id="685" source="internet manipulation" target="pagerank" />
+      <edge id="686" source="internet manipulation" target="pay per click" />
+      <edge id="687" source="internet manipulation" target="photo manipulation" />
+      <edge id="688" source="internet manipulation" target="post truth" />
+      <edge id="689" source="internet manipulation" target="psychological manipulation" />
+      <edge id="690" source="internet manipulation" target="reputation management" />
+      <edge id="691" source="internet manipulation" target="search engine optimization" />
+      <edge id="692" source="internet manipulation" target="search neutrality" />
+      <edge id="693" source="internet manipulation" target="sentiment analysis" />
+      <edge id="694" source="internet manipulation" target="social networking service#unauthorized access" />
+      <edge id="695" source="internet manipulation" target="social undermining" />
+      <edge id="696" source="internet manipulation" target="sockpuppet (internet)" />
+      <edge id="697" source="internet manipulation" target="spin (propaganda)" />
+      <edge id="698" source="internet manipulation" target="surveillance capitalism" />
+      <edge id="699" source="internet manipulation" target="the great meme war" />
+      <edge id="700" source="internet manipulation" target="trend analysis" />
+      <edge id="701" source="internet manipulation" target="website monitoring" />
+      <edge id="702" source="kompromat" target="active measures" />
+      <edge id="703" source="kompromat" target="character assassination" />
+      <edge id="704" source="kompromat" target="cyberwarfare" />
+      <edge id="705" source="kompromat" target="defamation" />
+      <edge id="706" source="kompromat" target="discrediting tactic" />
+      <edge id="707" source="kompromat" target="donald trump%e2%80%93russia dossier" />
+      <edge id="708" source="kompromat" target="false evidence" />
+      <edge id="709" source="kompromat" target="negative campaigning" />
+      <edge id="710" source="kompromat" target="opposition research" />
+      <edge id="711" source="media censorship and disinformation during the gezi park protests" target="backward run" />
+      <edge id="712" source="media censorship and disinformation during the gezi park protests" target="turkish language" />
+      <edge id="713" source="manufacturing consent" target="media imperialism" />
+      <edge id="714" source="manufacturing consent" target="media bias" />
+      <edge id="715" source="manufacturing consent" target="nicaraguan general election, 1984" />
+      <edge id="716" source="manufacturing consent" target="politico media complex" />
+      <edge id="717" source="manufacturing consent" target="propaganda" />
+      <edge id="718" source="manufacturing consent" target="the engineering of consent" />
+      <edge id="719" source="manufacturing consent" target="merchants of doubt" />
+      <edge id="720" source="manufacturing consent" target="preference falsification" />
+      <edge id="721" source="politico media complex" target="celebrity%e2%80%93industrial complex" />
+      <edge id="722" source="politico media complex" target="manufacturing consent" />
+      <edge id="723" source="politico media complex" target="freedom of the press" />
+      <edge id="724" source="politico media complex" target="fake news" />
+      <edge id="725" source="politico media complex" target="great firewall of china" />
+      <edge id="726" source="politico media complex" target="hillsborough disaster#the sun" />
+      <edge id="727" source="politico media complex" target="hillsborough wikipedia posts" />
+      <edge id="728" source="politico media complex" target="history of radio" />
+      <edge id="729" source="politico media complex" target="kdka (am)" />
+      <edge id="730" source="politico media complex" target="korean central news agency" />
+      <edge id="731" source="politico media complex" target="leveson inquiry" />
+      <edge id="732" source="politico media complex" target="media bias in the united states" />
+      <edge id="733" source="politico media complex" target="mediacracy" />
+      <edge id="734" source="politico media complex" target="military%e2%80%93industrial%e2%80%93media complex" />
+      <edge id="735" source="politico media complex" target="military%e2%80%93industrial complex" />
+      <edge id="736" source="politico media complex" target="press freedom index" />
+      <edge id="737" source="politico media complex" target="prism (surveillance program)" />
+      <edge id="738" source="politico media complex" target="prison%e2%80%93industrial complex" />
+      <edge id="739" source="politico media complex" target="postmodernism" />
+      <edge id="740" source="politico media complex" target="post truth politics" />
+      <edge id="741" source="politico media complex" target="spin (propaganda)" />
+      <edge id="742" source="politico media complex" target="the new totalitarians" />
+      <edge id="743" source="propaganda in the soviet union" target="banderivtsi" />
+      <edge id="744" source="propaganda in the soviet union" target="censorship in the soviet union" />
+      <edge id="745" source="propaganda in the soviet union" target="cold war" />
+      <edge id="746" source="propaganda in the soviet union" target="communist propaganda" />
+      <edge id="747" source="propaganda in the soviet union" target="kukryniksy" />
+      <edge id="748" source="propaganda in the soviet union" target="nazi propaganda" />
+      <edge id="749" source="propaganda in the soviet union" target="propaganda in north korea" />
+      <edge id="750" source="propaganda in the soviet union" target="propaganda in the people%27s republic of china" />
+      <edge id="751" source="propaganda in the soviet union" target="propaganda in the polish people%27s republic" />
+      <edge id="752" source="propaganda in the soviet union" target="propaganda in the united states" />
+      <edge id="753" source="russian military deception" target="active measures" />
+      <edge id="754" source="russian military deception" target="fear, uncertainty and doubt" />
+      <edge id="755" source="russian military deception" target="maneuver warfare" />
+      <edge id="756" source="russian military deception" target="operational art" />
+      <edge id="757" source="russian military deception" target="proxy war" />
+      <edge id="758" source="russian military deception" target="salami tactics" />
+      <edge id="759" source="russian military deception" target="soviet deep battle" />
+      <edge id="760" source="sharp power" target="adult to adult narcissistic abuse" />
+      <edge id="761" source="sharp power" target="abuse of power" />
+      <edge id="762" source="sharp power" target="blackmail" />
+      <edge id="763" source="sharp power" target="child grooming" />
+      <edge id="764" source="sharp power" target="cycle of violence" />
+      <edge id="765" source="sharp power" target="elder abuse" />
+      <edge id="766" source="sharp power" target="enabling" />
+      <edge id="767" source="sharp power" target="expressions of dominance" />
+      <edge id="768" source="sharp power" target="extortion" />
+      <edge id="769" source="sharp power" target="fit in or fuck off" />
+      <edge id="770" source="sharp power" target="mind control" />
+      <edge id="771" source="sharp power" target="my way or the highway" />
+      <edge id="772" source="sharp power" target="personal boundaries" />
+      <edge id="773" source="sharp power" target="power and control: domestic violence in america" />
+      <edge id="774" source="sharp power" target="protection racket" />
+      <edge id="775" source="sharp power" target="superficial charm" />
+      <edge id="776" source="sharp power" target="victim playing" />
+      <edge id="777" source="alarmism" target="2009 flu pandemic" />
+      <edge id="778" source="alarmism" target="2012 phenomenon" />
+      <edge id="779" source="alarmism" target="cassandra (metaphor)" />
+      <edge id="780" source="alarmism" target="culture of fear" />
+      <edge id="781" source="alarmism" target="false alarm" />
+      <edge id="782" source="alarmism" target="fear mongering" />
+      <edge id="783" source="alarmism" target="hypochondriasis" />
+      <edge id="784" source="alarmism" target="mass hysteria" />
+      <edge id="785" source="alarmism" target="moral panic" />
+      <edge id="786" source="alarmism" target="scaremongering" />
+      <edge id="787" source="alarmism" target="sociology of disaster" />
+      <edge id="788" source="alarmism" target="the boy who cried wolf" />
+      <edge id="789" source="alarmism" target="the sky is falling (fable)" />
+      <edge id="790" source="alternative facts" target="2 %2b 2 %3d 5" />
+      <edge id="791" source="alternative facts" target="credibility gap" />
+      <edge id="792" source="alternative facts" target="distinction without a difference" />
+      <edge id="793" source="alternative facts" target="doublethink" />
+      <edge id="794" source="alternative facts" target="factual relativism" />
+      <edge id="795" source="alternative facts" target="fake news" />
+      <edge id="796" source="alternative facts" target="false equivalence" />
+      <edge id="797" source="alternative facts" target="gaslighting" />
+      <edge id="798" source="alternative facts" target="political gaffe" />
+      <edge id="799" source="alternative facts" target="post truth politics" />
+      <edge id="800" source="alternative facts" target="terminological inexactitude" />
+      <edge id="801" source="alternative facts" target="truthiness" />
+      <edge id="802" source="climate change denial" target="book:global warming denial" />
+      <edge id="803" source="climate change denial" target="agnotology" />
+      <edge id="804" source="climate change denial" target="anti environmentalism" />
+      <edge id="805" source="climate change denial" target="effects of global warming" />
+      <edge id="806" source="climate change denial" target="information council on the environment" />
+      <edge id="807" source="climate change denial" target="international conference on climate change" />
+      <edge id="808" source="climate change denial" target="motivated reasoning" />
+      <edge id="809" source="climate change denial" target="renewable energy commercialization#non technical barriers to acceptance" />
+      <edge id="810" source="climate change denial" target="semmelweis reflex" />
+      <edge id="811" source="climate change denial" target="list of scientists opposing the mainstream scientific assessment of global warming" />
+      <edge id="812" source="climate change denial" target="political positions of donald trump#climate change and pollution" />
+      <edge id="813" source="climate change denial" target="climate change denial disorder" />
+      <edge id="814" source="climate change denial" target="satire" />
+      <edge id="815" source="climate change denial" target="parody" />
+      <edge id="816" source="climate change denial" target="fictional disease" />
+      <edge id="817" source="climate change denial" target="before the flood (film)" />
+      <edge id="818" source="demoralization (warfare)" target="destabilisation" />
+      <edge id="819" source="demoralization (warfare)" target="divide and rule" />
+      <edge id="820" source="demoralization (warfare)" target="extortion" />
+      <edge id="821" source="demoralization (warfare)" target="fear, uncertainty and doubt" />
+      <edge id="822" source="demoralization (warfare)" target="information warfare" />
+      <edge id="823" source="demoralization (warfare)" target="military deception" />
+      <edge id="824" source="demoralization (warfare)" target="psychological warfare" />
+      <edge id="825" source="demoralization (warfare)" target="ruse of war" />
+      <edge id="826" source="demoralization (warfare)" target="shock and awe" />
+      <edge id="827" source="demoralization (warfare)" target="terrorism" />
+      <edge id="828" source="fearmongering" target="alarmism" />
+      <edge id="829" source="fearmongering" target="appeal to fear" />
+      <edge id="830" source="fearmongering" target="culture of fear" />
+      <edge id="831" source="fearmongering" target="demagogue" />
+      <edge id="832" source="fearmongering" target="emotional blackmail" />
+      <edge id="833" source="fearmongering" target="fear, uncertainty and doubt" />
+      <edge id="834" source="fearmongering" target="fnord" />
+      <edge id="835" source="fearmongering" target="intimidation" />
+      <edge id="836" source="fearmongering" target="propaganda" />
+      <edge id="837" source="fearmongering" target="red scare" />
+      <edge id="838" source="fearmongering" target="summer of the shark" />
+      <edge id="839" source="internet meme" target="clich%c3%a9" />
+      <edge id="840" source="internet meme" target="list of internet phenomena" />
+      <edge id="841" source="internet meme" target="remix culture" />
+      <edge id="842" source="journalism ethics and standards" target="citizen journalism" />
+      <edge id="843" source="journalism ethics and standards" target="ethical journalism initiative" />
+      <edge id="844" source="journalism ethics and standards" target="ethical journalism network" />
+      <edge id="845" source="journalism ethics and standards" target="history of american newspapers" />
+      <edge id="846" source="journalism ethics and standards" target="history of journalism" />
+      <edge id="847" source="journalism ethics and standards" target="international federation of journalists" />
+      <edge id="848" source="journalism ethics and standards" target="new york press club" />
+      <edge id="849" source="journalism ethics and standards" target="objectivity (journalism)" />
+      <edge id="850" source="journalism ethics and standards" target="order of the occult hand" />
+      <edge id="851" source="journalism ethics and standards" target="organisation of news ombudsmen" />
+      <edge id="852" source="journalism ethics and standards" target="parachute journalism" />
+      <edge id="853" source="journalism ethics and standards" target="reporters without borders" />
+      <edge id="854" source="journalism ethics and standards" target="code of ethics in media" />
+      <edge id="855" source="journalism ethics and standards" target="code of ethics in media#society of professional journalists: code of ethics" />
+      <edge id="856" source="journalism ethics and standards" target="international council for press and broadcasting" />
+      <edge id="857" source="journalism ethics and standards" target="international council for press and broadcasting#media ethics code" />
+      <edge id="858" source="lying press" target="journaille" />
+      <edge id="859" source="lying press" target="fake news" />
+      <edge id="860" source="media bias" target="false equivalence" />
+      <edge id="861" source="media bias" target="framing (social sciences)" />
+      <edge id="862" source="media bias" target="freedom of speech by country" />
+      <edge id="863" source="media bias" target="hierarchy of death" />
+      <edge id="864" source="media bias" target="hostile media effect" />
+      <edge id="865" source="media bias" target="mainstream media" />
+      <edge id="866" source="media bias" target="manufacturing consent#five filters of editorial bias" />
+      <edge id="867" source="media bias" target="mass media impact on spatial perception" />
+      <edge id="868" source="media bias" target="media in alberta#political bias" />
+      <edge id="869" source="media bias" target="media imperialism" />
+      <edge id="870" source="media bias" target="media representation of hugo ch%c3%a1vez" />
+      <edge id="871" source="media bias" target="media transparency" />
+      <edge id="872" source="media bias" target="one dimensional man" />
+      <edge id="873" source="media bias" target="political correctness" />
+      <edge id="874" source="media bias" target="racial bias in criminal news" />
+      <edge id="875" source="media bias" target="racism in horror films" />
+      <edge id="876" source="media bias" target="structural pluralism" />
+      <edge id="877" source="media bias" target="view from nowhere" />
+      <edge id="878" source="media coverage of north korea" target="atrocity propaganda" />
+      <edge id="879" source="media coverage of north korea" target="chojoongdong" />
+      <edge id="880" source="media coverage of north korea" target="media of north korea" />
+      <edge id="881" source="media coverage of north korea" target="north korean studies" />
+      <edge id="882" source="media coverage of north korea" target="photojournalism in north korea" />
+      <edge id="883" source="pseudohistory" target="black egyptian hypothesis" />
+      <edge id="884" source="pseudohistory" target="historiography and nationalism" />
+      <edge id="885" source="pseudohistory" target="category:pseudohistorians" />
+      <edge id="886" source="pseudohistory" target="pseudoscientific metrology" />
+      <edge id="887" source="urban legend" target="hoax" />
+      <edge id="888" source="urban legend" target="list of urban legends" />
+      <edge id="889" source="urban legend" target="creepypasta" />
+      <edge id="890" source="urban legend" target="factoid" />
+      <edge id="891" source="urban legend" target="japanese urban legend" />
+      <edge id="892" source="urban legend" target="superstition" />
+      <edge id="893" source="urban legend" target="woozle effect" />
+      <edge id="894" source="creepypasta" target="list of internet phenomena" />
+      <edge id="895" source="creepypasta" target="urban legend" />
+      <edge id="896" source="japanese urban legend" target="japanese mythology in popular culture" />
+      <edge id="897" source="japanese urban legend" target="kami" />
+      <edge id="898" source="superstition" target="urban legend" />
+      <edge id="899" source="woozle effect" target="argument from authority" />
+      <edge id="900" source="woozle effect" target="argumentum ad populum" />
+      <edge id="901" source="woozle effect" target="circular reasoning" />
+      <edge id="902" source="woozle effect" target="citogenesis" />
+      <edge id="903" source="woozle effect" target="fallacy" />
+      <edge id="904" source="woozle effect" target="idola theatri" />
+      <edge id="905" source="woozle effect" target="just so story" />
+      <edge id="906" source="woozle effect" target="publication bias" />
+      <edge id="907" source="woozle effect" target="three men make a tiger" />
+      <edge id="908" source="woozle effect" target="viral phenomenon" />
+      <edge id="909" source="woozle effect" target="weasel word" />
+      <edge id="910" source="woozle effect" target="white hat bias" />
+      <edge id="911" source="conspiracy theory" target="conspiracy fiction" />
+      <edge id="912" source="conspiracy theory" target="fringe theory" />
+      <edge id="913" source="conspiracy theory" target="furtive fallacy" />
+      <edge id="914" source="conspiracy theory" target="on the origin of the %22influencing machine%22 in schizophrenia" />
+      <edge id="915" source="conspiracy theory" target="list of topics characterized as pseudoscience" />
+      <edge id="916" source="conspiracy theory" target="pseudohistory" />
+      <edge id="917" source="conspiracy theory" target="pseudoscience" />
+      <edge id="918" source="conspiracy theory" target="list of conspiracy theories" />
+      <edge id="919" source="counterfeit" target="authentication" />
+      <edge id="920" source="counterfeit" target="coin counterfeiting" />
+      <edge id="921" source="counterfeit" target="copyright infringement" />
+      <edge id="922" source="counterfeit" target="counterfeit banknote detection pen" />
+      <edge id="923" source="counterfeit" target="counterfeit medications" />
+      <edge id="924" source="counterfeit" target="counterfeit watch" />
+      <edge id="925" source="counterfeit" target="entertainment law" />
+      <edge id="926" source="counterfeit" target="gresham%27s law" />
+      <edge id="927" source="counterfeit" target="illegal stamps" />
+      <edge id="928" source="counterfeit" target="intellectual property" />
+      <edge id="929" source="counterfeit" target="legal fake" />
+      <edge id="930" source="counterfeit" target="philatelic fakes and forgeries" />
+      <edge id="931" source="counterfeit" target="prescription drug marketing act" />
+      <edge id="932" source="counterfeit" target="slug (coin)" />
+      <edge id="933" source="counterfeit" target="watered stock" />
+      <edge id="934" source="e mail spoofing" target="email authentication" />
+      <edge id="935" source="e mail spoofing" target="sender policy framework" />
+      <edge id="936" source="e mail spoofing" target="computer virus" />
+      <edge id="937" source="e mail spoofing" target="computer worm" />
+      <edge id="938" source="e mail spoofing" target="hoax" />
+      <edge id="939" source="e mail spoofing" target="chain email" />
+      <edge id="940" source="e mail spoofing" target="joe job" />
+      <edge id="941" source="e mail spoofing" target="website spoofing" />
+      <edge id="942" source="fake memoirs" target="literary forgery" />
+      <edge id="943" source="fake memoirs" target="misery lit" />
+      <edge id="944" source="fake memoirs" target="list of fictional diaries" />
+      <edge id="945" source="fake news website" target="clickbait" />
+      <edge id="946" source="fake news website" target="confirmation bias" />
+      <edge id="947" source="fake news website" target="disinformation" />
+      <edge id="948" source="fake news website" target="echo chamber (media)" />
+      <edge id="949" source="fake news website" target="euromyth" />
+      <edge id="950" source="fake news website" target="fallacy of composition" />
+      <edge id="951" source="fake news website" target="false equivalence" />
+      <edge id="952" source="fake news website" target="filter bubble" />
+      <edge id="953" source="fake news website" target="information silo" />
+      <edge id="954" source="fake news website" target="list of fake news websites" />
+      <edge id="955" source="fake news website" target="post truth politics" />
+      <edge id="956" source="fake news website" target="selective exposure theory" />
+      <edge id="957" source="fake news website" target="spiral of silence" />
+      <edge id="958" source="fake news website" target="tribe (internet)" />
+      <edge id="959" source="false document" target="false documentation" />
+      <edge id="960" source="false document" target="alternate reality game" />
+      <edge id="961" source="false document" target="a racial program for the twentieth century" />
+      <edge id="962" source="false document" target="april fools%27 day rfc" />
+      <edge id="963" source="false document" target="conspiracy theory" />
+      <edge id="964" source="false document" target="donation of constantine" />
+      <edge id="965" source="false document" target="epistolary novel" />
+      <edge id="966" source="false document" target="fictional book" />
+      <edge id="967" source="false document" target="forgery" />
+      <edge id="968" source="false document" target="frame tale" />
+      <edge id="969" source="false document" target="literary forgery" />
+      <edge id="970" source="false document" target="literary technique" />
+      <edge id="971" source="false document" target="fictitious entry" />
+      <edge id="972" source="false document" target="mockumentary" />
+      <edge id="973" source="false document" target="questioned document examination" />
+      <edge id="974" source="false document" target="urban legend" />
+      <edge id="975" source="false document" target="voynich manuscript" />
+      <edge id="976" source="falsity" target="deception" />
+      <edge id="977" source="falsity" target="fraud" />
+      <edge id="978" source="falsity" target="lie" />
+      <edge id="979" source="fictitious entry" target="argleton" />
+      <edge id="980" source="fictitious entry" target="canary trap" />
+      <edge id="981" source="fictitious entry" target="culture jamming" />
+      <edge id="982" source="fictitious entry" target="digital watermarking" />
+      <edge id="983" source="fictitious entry" target="easter egg (media)" />
+      <edge id="984" source="fictitious entry" target="false document" />
+      <edge id="985" source="fictitious entry" target="ghost word" />
+      <edge id="986" source="fictitious entry" target="honeypot (computing)" />
+      <edge id="987" source="fictitious entry" target="salt (cryptography)" />
+      <edge id="988" source="forgery" target="authentication" />
+      <edge id="989" source="forgery" target="counterfeiting" />
+      <edge id="990" source="forgery" target="coin counterfeiting" />
+      <edge id="991" source="forgery" target="counterfeit money" />
+      <edge id="992" source="forgery" target="counterfeit drugs" />
+      <edge id="993" source="forgery" target="replica watch" />
+      <edge id="994" source="forgery" target="philatelic fakes and forgeries" />
+      <edge id="995" source="forgery" target="epigraphy" />
+      <edge id="996" source="forgery" target="false document" />
+      <edge id="997" source="forgery" target="phishing" />
+      <edge id="998" source="forgery" target="questioned document examination" />
+      <edge id="999" source="forgery" target="replica" />
+      <edge id="1000" source="forgery" target="signature forgery" />
+      <edge id="1001" source="forgery" target="united states secret service" />
+      <edge id="1002" source="forgery" target="white collar crime" />
+      <edge id="1003" source="forgery" target="art forgery" />
+      <edge id="1004" source="forgery" target="digital signature forgery" />
+      <edge id="1005" source="forgery" target="j. s. g. boggs" />
+      <edge id="1006" source="impostor" target="capgras delusion" />
+      <edge id="1007" source="impostor" target="charlatan" />
+      <edge id="1008" source="impostor" target="deception" />
+      <edge id="1009" source="impostor" target="disability pretender" />
+      <edge id="1010" source="impostor" target="doppelg%c3%a4nger" />
+      <edge id="1011" source="impostor" target="fraud" />
+      <edge id="1012" source="impostor" target="miriam coles harris" />
+      <edge id="1013" source="impostor" target="identity theft" />
+      <edge id="1014" source="impostor" target="impersonator" />
+      <edge id="1015" source="impostor" target="impostor syndrome" />
+      <edge id="1016" source="impostor" target="list of messiah claimants" />
+      <edge id="1017" source="impostor" target="political decoy" />
+      <edge id="1018" source="impostor" target="poseur" />
+      <edge id="1019" source="list of hoaxes" target="beale ciphers" />
+      <edge id="1020" source="list of hoaxes" target="lost dutchman%27s gold mine" />
+      <edge id="1021" source="list of hoaxes" target="oak island" />
+      <edge id="1022" source="list of hoaxes" target="list of fictitious people" />
+      <edge id="1023" source="list of hoaxes" target="fictional character" />
+      <edge id="1024" source="list of hoaxes" target="confidence trick" />
+      <edge id="1025" source="list of hoaxes" target="literary forgery" />
+      <edge id="1026" source="list of hoaxes" target="list of common misconceptions" />
+      <edge id="1027" source="list of hoaxes" target="list of religious hoaxes" />
+      <edge id="1028" source="list of hoaxes" target="list of scholarly publishing hoaxes" />
+      <edge id="1029" source="literary forgery" target="catfish (film)" />
+      <edge id="1030" source="literary forgery" target="counterfeit" />
+      <edge id="1031" source="literary forgery" target="helen darville" />
+      <edge id="1032" source="literary forgery" target="hitler diaries" />
+      <edge id="1033" source="literary forgery" target="false document" />
+      <edge id="1034" source="literary forgery" target="clifford irving" />
+      <edge id="1035" source="literary forgery" target="anthony godby johnson" />
+      <edge id="1036" source="literary forgery" target="journalistic scandal" />
+      <edge id="1037" source="literary forgery" target="jt leroy" />
+      <edge id="1038" source="literary forgery" target="nasdijj" />
+      <edge id="1039" source="literary forgery" target="outline of forgery" />
+      <edge id="1040" source="literary forgery" target="dave pelzer" />
+      <edge id="1041" source="literary forgery" target="pseudepigrapha" />
+      <edge id="1042" source="literary forgery" target="margaret seltzer" />
+      <edge id="1043" source="literary forgery" target="b. wongar" />
+      <edge id="1044" source="media manipulation" target="brand" />
+      <edge id="1045" source="media manipulation" target="concentration of media ownership" />
+      <edge id="1046" source="media manipulation" target="consumer confusion" />
+      <edge id="1047" source="media manipulation" target="consumer psychology" />
+      <edge id="1048" source="media manipulation" target="consumer science" />
+      <edge id="1049" source="media manipulation" target="crowd manipulation" />
+      <edge id="1050" source="media manipulation" target="deception" />
+      <edge id="1051" source="media manipulation" target="demagogy" />
+      <edge id="1052" source="media manipulation" target="front organization" />
+      <edge id="1053" source="media manipulation" target="gatekeeping (communication)" />
+      <edge id="1054" source="media manipulation" target="guerrilla marketing" />
+      <edge id="1055" source="media manipulation" target="outline of public relations" />
+      <edge id="1056" source="media manipulation" target="ideocracy" />
+      <edge id="1057" source="media manipulation" target="ideology" />
+      <edge id="1058" source="media manipulation" target="indoctrination" />
+      <edge id="1059" source="media manipulation" target="internet manipulation" />
+      <edge id="1060" source="media manipulation" target="mccarthyism" />
+      <edge id="1061" source="media manipulation" target="media regulation" />
+      <edge id="1062" source="media manipulation" target="media transparency" />
+      <edge id="1063" source="media manipulation" target="meme" />
+      <edge id="1064" source="media manipulation" target="managing the news" />
+      <edge id="1065" source="media manipulation" target="propaganda" />
+      <edge id="1066" source="media manipulation" target="promotion (marketing)" />
+      <edge id="1067" source="media manipulation" target="psychological manipulation" />
+      <edge id="1068" source="media manipulation" target="sourcewatch" />
+      <edge id="1069" source="media manipulation" target="spin (public relations)" />
+      <edge id="1070" source="media manipulation" target="the true believer" />
+      <edge id="1071" source="media manipulation" target="under color of authority" />
+      <edge id="1072" source="media manipulation" target="viral marketing" />
+      <edge id="1073" source="simulated reality" target="artificial life" />
+      <edge id="1074" source="simulated reality" target="artificial society" />
+      <edge id="1075" source="simulated reality" target="augmented reality" />
+      <edge id="1076" source="simulated reality" target="boltzmann brain" />
+      <edge id="1077" source="simulated reality" target="computational sociology" />
+      <edge id="1078" source="simulated reality" target="consensus reality" />
+      <edge id="1079" source="simulated reality" target="digital philosophy" />
+      <edge id="1080" source="simulated reality" target="digital physics" />
+      <edge id="1081" source="simulated reality" target="hyperreality" />
+      <edge id="1082" source="simulated reality" target="margolus%e2%80%93levitin theorem" />
+      <edge id="1083" source="simulated reality" target="metaverse" />
+      <edge id="1084" source="simulated reality" target="mind uploading" />
+      <edge id="1085" source="simulated reality" target="openworm" />
+      <edge id="1086" source="simulated reality" target="philosophy of information" />
+      <edge id="1087" source="simulated reality" target="simulation hypothesis" />
+      <edge id="1088" source="simulated reality" target="social simulation" />
+      <edge id="1089" source="simulated reality" target="theory of knowledge" />
+      <edge id="1090" source="simulated reality" target="omega point (tipler)" />
+      <edge id="1091" source="simulated reality" target="virtual reality simulator" />
+      <edge id="1092" source="simulated reality" target="virtual world" />
+      <edge id="1093" source="simulated reality" target="nick bostrom" />
+      <edge id="1094" source="simulated reality" target="ren%c3%a9 descartes" />
+      <edge id="1095" source="simulated reality" target="evil demon" />
+      <edge id="1096" source="simulated reality" target="george berkeley" />
+      <edge id="1097" source="simulated reality" target="subjective idealism" />
+      <edge id="1098" source="simulated reality" target="wikipedia:citation needed" />
+      <edge id="1099" source="simulated reality" target="plato" />
+      <edge id="1100" source="simulated reality" target="allegory of the cave" />
+      <edge id="1101" source="simulated reality" target="zhuang zhou" />
+      <edge id="1102" source="simulated reality" target="zhuangzi (book)#&quot;the butterfly dream&quot;" />
+      <edge id="1103" source="sokal affair" target="list of scholarly publishing stings" />
+      <edge id="1104" source="sokal affair" target="chip morningstar" />
+      <edge id="1105" source="sokal affair" target="dr. fox effect" />
+      <edge id="1106" source="sokal affair" target="fictitious entry" />
+      <edge id="1107" source="sokal affair" target="not even wrong" />
+      <edge id="1108" source="sokal affair" target="politics and the english language" />
+      <edge id="1109" source="sokal affair" target="george orwell" />
+      <edge id="1110" source="sokal affair" target="postmodernism generator" />
+      <edge id="1111" source="sokal affair" target="scigen" />
+      <edge id="1112" source="sokal affair" target="bogdanov affair" />
+      <edge id="1113" source="sokal affair" target="physics envy" />
+      <edge id="1114" source="tall tale" target="big fish" />
+      <edge id="1115" source="tall tale" target="tim burton" />
+      <edge id="1116" source="tall tale" target="bill brasky" />
+      <edge id="1117" source="tall tale" target="cars toons" />
+      <edge id="1118" source="tall tale" target="mater (cars)" />
+      <edge id="1119" source="tall tale" target="chuck norris facts" />
+      <edge id="1120" source="tall tale" target="fairy tale" />
+      <edge id="1121" source="tall tale" target="folklore" />
+      <edge id="1122" source="tall tale" target="legend" />
+      <edge id="1123" source="tall tale" target="myth" />
+      <edge id="1124" source="tall tale" target="snipe hunt" />
+      <edge id="1125" source="tall tale" target="the most interesting man in the world" />
+      <edge id="1126" source="tall tale" target="unreliable narrator" />
+      <edge id="1127" source="tall tale" target="urban legend" />
+    </edges>
+  </graph>
+</gexf>
