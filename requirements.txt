@@ -5,3 +5,4 @@ ndlib
 tweepy
 tqdm
 ipython
+seaborn
