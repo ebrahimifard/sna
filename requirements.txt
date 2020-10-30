@@ -1,0 +1,7 @@
+networkx
+matplotlib
+numpy
+ndlib
+tweepy
+tqdm
+ipython
